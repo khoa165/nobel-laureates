@@ -1,0 +1,934 @@
+Wilhelm Conrad, Röntgen (1845-03-27 - 1923-02-10) from Prussia (now Germany) won a Nobel prize in physics (1901).
+Hendrik Antoon, Lorentz (1853-07-18 - 1928-02-04) from the Netherlands won a Nobel prize in physics (1902).
+Pieter, Zeeman (1865-05-25 - 1943-10-09) from the Netherlands won a Nobel prize in physics (1902).
+Antoine Henri, Becquerel (1852-12-15 - 1908-08-25) from France won a Nobel prize in physics (1903).
+Pierre, Curie (1859-05-15 - 1906-04-19) from France won a Nobel prize in physics (1903).
+Marie, Curie, née Sklodowska (1867-11-07 - 1934-07-04) from Russian Empire (now Poland) won a Nobel prize in physics (1903), in chemistry (1911).
+Lord Rayleigh, (John William Strutt) (1842-11-12 - 1919-06-30) from United Kingdom won a Nobel prize in physics (1904).
+Philipp Eduard Anton, von Lenard (1862-06-07 - 1947-05-20) from Hungary (now Slovakia) won a Nobel prize in physics (1905).
+Joseph John, Thomson (1856-12-18 - 1940-08-30) from United Kingdom won a Nobel prize in physics (1906).
+Albert Abraham, Michelson (1852-12-19 - 1931-05-09) from Prussia (now Poland) won a Nobel prize in physics (1907).
+Gabriel, Lippmann (1845-08-16 - 1921-07-13) from Luxembourg won a Nobel prize in physics (1908).
+Guglielmo, Marconi (1874-04-25 - 1937-07-20) from Italy won a Nobel prize in physics (1909).
+Karl Ferdinand, Braun (1850-06-06 - 1918-04-20) from Hesse-Kassel (now Germany) won a Nobel prize in physics (1909).
+Johannes Diderik, van der Waals (1837-11-23 - 1923-03-08) from the Netherlands won a Nobel prize in physics (1910).
+Wilhelm, Wien (1864-01-13 - 1928-08-30) from Prussia (now Russia) won a Nobel prize in physics (1911).
+Nils Gustaf, Dalén (1869-11-30 - 1937-12-09) from Sweden won a Nobel prize in physics (1912).
+Heike, Kamerlingh Onnes (1853-09-21 - 1926-02-21) from the Netherlands won a Nobel prize in physics (1913).
+Max, von Laue (1879-10-09 - 1960-04-23) from Germany won a Nobel prize in physics (1914).
+Sir William Henry, Bragg (1862-07-02 - 1942-03-12) from United Kingdom won a Nobel prize in physics (1915).
+William Lawrence, Bragg (1890-03-31 - 1971-07-01) from Australia won a Nobel prize in physics (1915).
+Charles Glover, Barkla (1877-06-07 - 1944-10-23) from United Kingdom won a Nobel prize in physics (1917).
+Max Karl Ernst Ludwig, Planck (1858-04-23 - 1947-10-04) from Schleswig (now Germany) won a Nobel prize in physics (1918).
+Johannes, Stark (1874-04-15 - 1957-06-21) from Germany won a Nobel prize in physics (1919).
+Charles Edouard, Guillaume (1861-02-15 - 1938-06-13) from Switzerland won a Nobel prize in physics (1920).
+Albert, Einstein (1879-03-14 - 1955-04-18) from Germany won a Nobel prize in physics (1921).
+Niels Henrik David, Bohr (1885-10-07 - 1962-11-18) from Denmark won a Nobel prize in physics (1922).
+Robert Andrews, Millikan (1868-03-22 - 1953-12-19) from USA won a Nobel prize in physics (1923).
+Karl Manne Georg, Siegbahn (1886-12-03 - 1978-09-26) from Sweden won a Nobel prize in physics (1924).
+James, Franck (1882-08-26 - 1964-05-21) from Germany won a Nobel prize in physics (1925).
+Gustav Ludwig, Hertz (1887-07-22 - 1975-10-30) from Germany won a Nobel prize in physics (1925).
+Jean Baptiste, Perrin (1870-09-30 - 1942-04-17) from France won a Nobel prize in physics (1926).
+Arthur Holly, Compton (1892-09-10 - 1962-03-15) from USA won a Nobel prize in physics (1927).
+Charles Thomson Rees, Wilson (1869-02-14 - 1959-11-15) from Scotland won a Nobel prize in physics (1927).
+Owen Willans, Richardson (1879-04-26 - 1959-02-15) from United Kingdom won a Nobel prize in physics (1928).
+Prince Louis-Victor Pierre Raymond, de Broglie (1892-08-15 - 1987-03-19) from France won a Nobel prize in physics (1929).
+Sir Chandrasekhara Venkata, Raman (1888-11-07 - 1970-11-21) from India won a Nobel prize in physics (1930).
+Werner Karl, Heisenberg (1901-12-05 - 1976-02-01) from Germany won a Nobel prize in physics (1932).
+Erwin, Schrödinger (1887-08-12 - 1961-01-04) from Austria won a Nobel prize in physics (1933).
+Paul Adrien Maurice, Dirac (1902-08-08 - 1984-10-20) from United Kingdom won a Nobel prize in physics (1933).
+James, Chadwick (1891-10-20 - 1974-07-24) from United Kingdom won a Nobel prize in physics (1935).
+Victor Franz, Hess (1883-06-24 - 1964-12-17) from Austria won a Nobel prize in physics (1936).
+Carl David, Anderson (1905-09-03 - 1991-01-11) from USA won a Nobel prize in physics (1936).
+Clinton Joseph, Davisson (1881-10-22 - 1958-02-01) from USA won a Nobel prize in physics (1937).
+George Paget, Thomson (1892-05-03 - 1975-09-10) from United Kingdom won a Nobel prize in physics (1937).
+Enrico, Fermi (1901-09-29 - 1954-11-28) from Italy won a Nobel prize in physics (1938).
+Ernest Orlando, Lawrence (1901-08-08 - 1958-08-27) from USA won a Nobel prize in physics (1939).
+Otto, Stern (1888-02-17 - 1969-08-17) from Germany (now Poland) won a Nobel prize in physics (1943).
+Isidor Isaac, Rabi (1898-07-29 - 1988-01-11) from Austria-Hungary (now Poland) won a Nobel prize in physics (1944).
+Wolfgang, Pauli (1900-04-25 - 1958-12-15) from Austria won a Nobel prize in physics (1945).
+Percy Williams, Bridgman (1882-04-21 - 1961-08-20) from USA won a Nobel prize in physics (1946).
+Sir Edward Victor, Appleton (1892-09-06 - 1965-04-21) from United Kingdom won a Nobel prize in physics (1947).
+Patrick Maynard Stuart, Blackett (1897-11-18 - 1974-07-13) from United Kingdom won a Nobel prize in physics (1948).
+Hideki, Yukawa (1907-01-23 - 1981-09-08) from Japan won a Nobel prize in physics (1949).
+Cecil Frank, Powell (1903-12-05 - 1969-08-09) from United Kingdom won a Nobel prize in physics (1950).
+Sir John Douglas, Cockcroft (1897-05-27 - 1967-09-18) from United Kingdom won a Nobel prize in physics (1951).
+Ernest Thomas Sinton, Walton (1903-10-06 - 1995-06-25) from Ireland won a Nobel prize in physics (1951).
+Felix, Bloch (1905-10-23 - 1983-09-10) from Switzerland won a Nobel prize in physics (1952).
+Edward Mills, Purcell (1912-08-30 - 1997-03-07) from USA won a Nobel prize in physics (1952).
+Frits, Zernike (1888-07-16 - 1966-03-10) from the Netherlands won a Nobel prize in physics (1953).
+Max, Born (1882-12-11 - 1970-01-05) from Germany (now Poland) won a Nobel prize in physics (1954).
+Walther, Bothe (1891-01-08 - 1957-02-08) from Germany won a Nobel prize in physics (1954).
+Willis Eugene, Lamb (1913-07-12 - 2008-05-15) from USA won a Nobel prize in physics (1955).
+Polykarp, Kusch (1911-01-26 - 1993-03-20) from Germany won a Nobel prize in physics (1955).
+William Bradford, Shockley (1910-02-13 - 1989-08-12) from United Kingdom won a Nobel prize in physics (1956).
+John, Bardeen (1908-05-23 - 1991-01-30) from USA won a Nobel prize in physics (1956), in physics (1972).
+Walter Houser, Brattain (1902-02-10 - 1987-10-13) from China won a Nobel prize in physics (1956).
+Chen Ning, Yang (1922-09-22 - N/A) from China won a Nobel prize in physics (1957).
+Tsung-Dao (T.D.), Lee (1926-11-24 - N/A) from China won a Nobel prize in physics (1957).
+Pavel Alekseyevich, Cherenkov (1904-07-28 - 1990-01-06) from Russia won a Nobel prize in physics (1958).
+Igor Yevgenyevich, Tamm (1895-07-08 - 1971-04-12) from Russia won a Nobel prize in physics (1958).
+Emilio Gino, Segrè (1905-02-01 - 1989-04-22) from Italy won a Nobel prize in physics (1959).
+Owen, Chamberlain (1920-07-10 - 2006-02-28) from USA won a Nobel prize in physics (1959).
+Donald Arthur, Glaser (1926-09-21 - 2013-02-28) from USA won a Nobel prize in physics (1960).
+Robert, Hofstadter (1915-02-05 - 1990-11-17) from USA won a Nobel prize in physics (1961).
+Rudolf Ludwig, Mössbauer (1929-01-31 - 2011-09-14) from Germany won a Nobel prize in physics (1961).
+Lev Davidovich, Landau (1908-01-22 - 1968-04-01) from Russian Empire (now Azerbaijan) won a Nobel prize in physics (1962).
+Eugene Paul, Wigner (1902-11-17 - 1995-01-01) from Austria-Hungary (now Hungary) won a Nobel prize in physics (1963).
+Maria, Goeppert Mayer (1906-06-28 - 1972-02-20) from Germany (now Poland) won a Nobel prize in physics (1963).
+J. Hans D., Jensen (1907-06-25 - 1973-02-11) from Germany won a Nobel prize in physics (1963).
+Charles Hard, Townes (1915-07-28 - 2015-01-27) from USA won a Nobel prize in physics (1964).
+Nicolay Gennadiyevich, Basov (1922-12-14 - 2001-07-01) from USSR (now Russia) won a Nobel prize in physics (1964).
+Aleksandr Mikhailovich, Prokhorov (1916-07-11 - 2002-01-08) from Australia won a Nobel prize in physics (1964).
+Sin-Itiro, Tomonaga (1906-03-31 - 1979-07-08) from Japan won a Nobel prize in physics (1965).
+Julian, Schwinger (1918-02-12 - 1994-07-16) from USA won a Nobel prize in physics (1965).
+Richard P., Feynman (1918-05-11 - 1988-02-15) from USA won a Nobel prize in physics (1965).
+Alfred, Kastler (1902-05-03 - 1984-01-07) from Germany (now France) won a Nobel prize in physics (1966).
+Hans Albrecht, Bethe (1906-07-02 - 2005-03-06) from Germany (now France) won a Nobel prize in physics (1967).
+Luis Walter, Alvarez (1911-06-13 - 1988-09-01) from USA won a Nobel prize in physics (1968).
+Murray, Gell-Mann (1929-09-15 - 2019-05-24) from USA won a Nobel prize in physics (1969).
+Hannes Olof Gösta, Alfvén (1908-05-30 - 1995-04-02) from Sweden won a Nobel prize in physics (1970).
+Louis Eugène Félix, Néel (1904-11-22 - 2000-11-17) from France won a Nobel prize in physics (1970).
+Dennis, Gabor (1900-06-05 - 1979-02-08) from Hungary won a Nobel prize in physics (1971).
+Leon Neil, Cooper (1930-02-28 - N/A) from USA won a Nobel prize in physics (1972).
+John Robert, Schrieffer (1931-05-31 - N/A) from USA won a Nobel prize in physics (1972).
+Leo, Esaki (1925-03-12 - N/A) from Japan won a Nobel prize in physics (1973).
+Ivar, Giaever (1929-04-05 - N/A) from Norway won a Nobel prize in physics (1973).
+Brian David, Josephson (1940-01-04 - N/A) from United Kingdom won a Nobel prize in physics (1973).
+Sir Martin, Ryle (1918-09-27 - 1984-10-14) from United Kingdom won a Nobel prize in physics (1974).
+Antony, Hewish (1924-05-11 - N/A) from United Kingdom won a Nobel prize in physics (1974).
+Aage Niels, Bohr (1922-06-19 - 2009-09-08) from Denmark won a Nobel prize in physics (1975).
+Ben Roy, Mottelson (1926-07-09 - N/A) from USA won a Nobel prize in physics (1975).
+Leo James, Rainwater (1917-12-09 - 1986-03-31) from USA won a Nobel prize in physics (1975).
+Burton, Richter (1931-03-22 - 2018-07-18) from USA won a Nobel prize in physics (1976).
+Samuel Chao Chung, Ting (1936-01-27 - N/A) from USA won a Nobel prize in physics (1976).
+Philip Warren, Anderson (1923-12-13 - N/A) from USA won a Nobel prize in physics (1977).
+Sir Nevill Francis, Mott (1905-09-30 - 1996-08-08) from United Kingdom won a Nobel prize in physics (1977).
+John Hasbrouck, van Vleck (1899-03-13 - 1980-10-27) from USA won a Nobel prize in physics (1977).
+Pyotr Leonidovich, Kapitsa (1894-07-09 - 1984-04-08) from Russian Empire (now Russia) won a Nobel prize in physics (1978).
+Arno Allan, Penzias (1933-04-26 - N/A) from Germany won a Nobel prize in physics (1978).
+Robert Woodrow, Wilson (1936-01-10 - N/A) from USA won a Nobel prize in physics (1978).
+Sheldon Lee, Glashow (1932-12-05 - N/A) from USA won a Nobel prize in physics (1979).
+Abdus, Salam (1926-01-29 - 1996-11-21) from India (now Pakistan) won a Nobel prize in physics (1979).
+Steven, Weinberg (1933-05-03 - N/A) from USA won a Nobel prize in physics (1979).
+James Watson, Cronin (1931-09-29 - 2016-08-25) from USA won a Nobel prize in physics (1980).
+Val Logsdon, Fitch (1923-03-10 - 2015-02-05) from USA won a Nobel prize in physics (1980).
+Nicolaas, Bloembergen (1920-03-11 - 2017-09-05) from the Netherlands won a Nobel prize in physics (1981).
+Arthur Leonard, Schawlow (1921-05-05 - 1999-04-28) from USA won a Nobel prize in physics (1981).
+Kai M., Siegbahn (1918-04-20 - 2007-07-20) from Sweden won a Nobel prize in physics (1981).
+Kenneth G., Wilson (1936-06-08 - 2013-06-15) from USA won a Nobel prize in physics (1982).
+Subramanyan, Chandrasekhar (1910-10-19 - 1995-08-21) from India (now Pakistan) won a Nobel prize in physics (1983).
+William Alfred, Fowler (1911-08-09 - 1995-03-14) from USA won a Nobel prize in physics (1983).
+Carlo, Rubbia (1934-03-31 - N/A) from Italy won a Nobel prize in physics (1984).
+Simon, van der Meer (1925-11-24 - 2011-03-04) from the Netherlands won a Nobel prize in physics (1984).
+Klaus, von Klitzing (1943-06-28 - N/A) from German-occupied Poland (now Poland) won a Nobel prize in physics (1985).
+Ernst, Ruska (1906-12-25 - 1988-05-27) from Germany won a Nobel prize in physics (1986).
+Gerd, Binnig (1947-07-20 - N/A) from West Germany (now Germany) won a Nobel prize in physics (1986).
+Heinrich, Rohrer (1933-06-06 - 2013-05-16) from Switzerland won a Nobel prize in physics (1986).
+J. Georg, Bednorz (1950-05-16 - N/A) from West Germany (now Germany) won a Nobel prize in physics (1987).
+K. Alexander, Müller (1927-04-20 - N/A) from Switzerland won a Nobel prize in physics (1987).
+Leon M., Lederman (1922-07-15 - 2018-10-03) from USA won a Nobel prize in physics (1988).
+Melvin, Schwartz (1932-11-02 - 2006-08-28) from USA won a Nobel prize in physics (1988).
+Jack, Steinberger (1921-05-25 - N/A) from Germany won a Nobel prize in physics (1988).
+Norman F., Ramsey (1915-08-27 - 2011-11-04) from USA won a Nobel prize in physics (1989).
+Hans G., Dehmelt (1922-09-09 - 2017-03-07) from Prussia (now Germany) won a Nobel prize in physics (1989).
+Wolfgang, Paul (1913-08-10 - 1993-12-07) from Germany won a Nobel prize in physics (1989).
+Jerome I., Friedman (1930-03-28 - N/A) from USA won a Nobel prize in physics (1990).
+Henry W., Kendall (1926-12-09 - 1999-02-15) from USA won a Nobel prize in physics (1990).
+Richard E., Taylor (1929-11-02 - 2018-02-22) from Canada won a Nobel prize in physics (1990).
+Pierre-Gilles, de Gennes (1932-10-24 - 2007-05-18) from France won a Nobel prize in physics (1991).
+Georges, Charpak (1924-08-01 - 2010-09-29) from Poland won a Nobel prize in physics (1992).
+Russell A., Hulse (1950-11-28 - N/A) from USA won a Nobel prize in physics (1993).
+Joseph H., Taylor Jr. (1941-03-29 - N/A) from USA won a Nobel prize in physics (1993).
+Bertram N., Brockhouse (1918-07-15 - 2003-10-13) from Canada won a Nobel prize in physics (1994).
+Clifford G., Shull (1915-09-23 - 2001-03-31) from USA won a Nobel prize in physics (1994).
+Martin L., Perl (1927-06-24 - 2014-09-30) from USA won a Nobel prize in physics (1995).
+Frederick, Reines (1918-03-16 - 1998-08-26) from USA won a Nobel prize in physics (1995).
+David M., Lee (1931-01-20 - N/A) from USA won a Nobel prize in physics (1996).
+Douglas D., Osheroff (1945-08-01 - N/A) from USA won a Nobel prize in physics (1996).
+Robert C., Richardson (1937-06-26 - 2013-02-19) from USA won a Nobel prize in physics (1996).
+Steven, Chu (1948-02-28 - N/A) from USA won a Nobel prize in physics (1997).
+Claude, Cohen-Tannoudji (1933-04-01 - N/A) from French Algeria (now Algeria) won a Nobel prize in physics (1997).
+William D., Phillips (1948-11-05 - N/A) from USA won a Nobel prize in physics (1997).
+Robert B., Laughlin (1950-11-01 - N/A) from USA won a Nobel prize in physics (1998).
+Horst L., Störmer (1949-04-06 - N/A) from West Germany (now Germany) won a Nobel prize in physics (1998).
+Daniel C., Tsui (1939-02-28 - N/A) from China won a Nobel prize in physics (1998).
+Gerardus, 't Hooft (1946-07-05 - N/A) from the Netherlands won a Nobel prize in physics (1999).
+Martinus J.G., Veltman (1931-06-27 - N/A) from the Netherlands won a Nobel prize in physics (1999).
+Jacobus Henricus, van 't Hoff (1852-08-30 - 1911-03-01) from the Netherlands won a Nobel prize in chemistry (1901).
+Hermann Emil, Fischer (1852-10-09 - 1919-07-15) from Prussia (now Germany) won a Nobel prize in chemistry (1902).
+Svante August, Arrhenius (1859-02-19 - 1927-10-02) from Sweden won a Nobel prize in chemistry (1903).
+Sir William, Ramsay (1852-10-02 - 1916-07-23) from Scotland won a Nobel prize in chemistry (1904).
+Johann Friedrich Wilhelm Adolf, von Baeyer (1835-10-31 - 1917-08-20) from Prussia (now Germany) won a Nobel prize in chemistry (1905).
+Henri, Moissan (1852-09-28 - 1907-02-20) from France won a Nobel prize in chemistry (1906).
+Eduard, Buchner (1860-05-20 - 1917-08-13) from Bavaria (now Germany) won a Nobel prize in chemistry (1907).
+Ernest, Rutherford (1871-08-30 - 1937-10-19) from New Zealand won a Nobel prize in chemistry (1908).
+Wilhelm, Ostwald (1853-09-02 - 1932-04-04) from Russian Empire (now Latvia) won a Nobel prize in chemistry (1909).
+Otto, Wallach (1847-03-27 - 1931-02-26) from Germany (now Russia) won a Nobel prize in chemistry (1910).
+Victor, Grignard (1871-05-06 - 1935-12-13) from France won a Nobel prize in chemistry (1912).
+Paul, Sabatier (1854-11-05 - 1941-08-14) from France won a Nobel prize in chemistry (1912).
+Alfred, Werner (1866-12-12 - 1919-11-15) from France won a Nobel prize in chemistry (1913).
+Theodore William, Richards (1868-01-31 - 1928-04-02) from USA won a Nobel prize in chemistry (1914).
+Richard Martin, Willstätter (1872-08-13 - 1942-08-03) from Germany won a Nobel prize in chemistry (1915).
+Fritz, Haber (1868-12-09 - 1934-01-29) from Prussia (now Poland) won a Nobel prize in chemistry (1918).
+Walther Hermann, Nernst (1864-06-25 - 1941-11-18) from Prussia (now Germany) won a Nobel prize in chemistry (1920).
+Frederick, Soddy (1877-09-02 - 1956-09-22) from United Kingdom won a Nobel prize in chemistry (1921).
+Francis William, Aston (1877-09-01 - 1945-11-20) from United Kingdom won a Nobel prize in chemistry (1922).
+Fritz, Pregl (1869-09-03 - 1930-12-13) from Austria-Hungary (now Slovenia) won a Nobel prize in chemistry (1923).
+Richard Adolf, Zsigmondy (1865-04-01 - 1929-09-24) from Austrian Empire (now Austria) won a Nobel prize in chemistry (1925).
+The (Theodor), Svedberg (1884-08-30 - 1971-02-25) from Sweden won a Nobel prize in chemistry (1926).
+Heinrich Otto, Wieland (1877-06-04 - 1957-08-05) from Germany won a Nobel prize in chemistry (1927).
+Adolf Otto Reinhold, Windaus (1876-12-25 - 1959-06-09) from Germany won a Nobel prize in chemistry (1928).
+Arthur, Harden (1865-10-12 - 1940-06-17) from United Kingdom won a Nobel prize in chemistry (1929).
+Hans Karl August Simon, von Euler-Chelpin (1873-02-15 - 1964-11-06) from Germany won a Nobel prize in chemistry (1929).
+Hans, Fischer (1881-07-27 - 1945-03-31) from Germany won a Nobel prize in chemistry (1930).
+Carl, Bosch (1874-08-27 - 1940-04-26) from Germany won a Nobel prize in chemistry (1931).
+Friedrich, Bergius (1884-10-11 - 1949-03-30) from Germany (now Poland) won a Nobel prize in chemistry (1931).
+Irving, Langmuir (1881-01-31 - 1957-08-16) from USA won a Nobel prize in chemistry (1932).
+Harold Clayton, Urey (1893-04-29 - 1981-01-05) from USA won a Nobel prize in chemistry (1934).
+Frédéric, Joliot (1900-03-19 - 1958-08-14) from France won a Nobel prize in chemistry (1935).
+Irène, Joliot-Curie (1897-09-12 - 1956-03-17) from France won a Nobel prize in chemistry (1935).
+Petrus (Peter) Josephus Wilhelmus, Debye (1884-03-24 - 1966-11-02) from the Netherlands won a Nobel prize in chemistry (1936).
+Walter Norman, Haworth (1883-03-19 - 1950-03-19) from United Kingdom won a Nobel prize in chemistry (1937).
+Paul, Karrer (1889-04-21 - 1971-06-18) from Russia won a Nobel prize in chemistry (1937).
+Richard, Kuhn (1900-12-03 - 1967-07-31) from Austria-Hungary (now Austria) won a Nobel prize in chemistry (1938).
+Adolf Friedrich Johann, Butenandt (1903-03-24 - 1995-01-18) from Germany won a Nobel prize in chemistry (1939).
+Leopold, Ruzicka (1887-09-13 - 1976-09-26) from Austria-Hungary (now Croatia) won a Nobel prize in chemistry (1939).
+George, de Hevesy (1885-08-01 - 1966-07-05) from Austria-Hungary (now Hungary) won a Nobel prize in chemistry (1943).
+Otto, Hahn (1879-03-08 - 1968-07-28) from Germany won a Nobel prize in chemistry (1944).
+Artturi Ilmari, Virtanen (1895-01-15 - 1973-11-11) from Russian Empire (now Finland) won a Nobel prize in chemistry (1945).
+James Batcheller, Sumner (1887-11-19 - 1955-08-12) from USA won a Nobel prize in chemistry (1946).
+John Howard, Northrop (1891-07-05 - 1987-05-27) from USA won a Nobel prize in chemistry (1946).
+Wendell Meredith, Stanley (1904-08-16 - 1971-06-15) from USA won a Nobel prize in chemistry (1946).
+Sir Robert, Robinson (1886-09-13 - 1975-02-08) from United Kingdom won a Nobel prize in chemistry (1947).
+Arne Wilhelm Kaurin, Tiselius (1902-08-10 - 1971-10-29) from Sweden won a Nobel prize in chemistry (1948).
+William Francis, Giauque (1895-05-12 - 1982-03-28) from Canada won a Nobel prize in chemistry (1949).
+Otto Paul Hermann, Diels (1876-01-23 - 1954-03-07) from Germany won a Nobel prize in chemistry (1950).
+Kurt, Alder (1902-07-10 - 1958-06-20) from Prussia (now Poland) won a Nobel prize in chemistry (1950).
+Edwin Mattison, McMillan (1907-09-18 - 1991-09-07) from USA won a Nobel prize in chemistry (1951).
+Glenn Theodore, Seaborg (1912-04-19 - 1999-02-25) from USA won a Nobel prize in chemistry (1951).
+Archer John Porter, Martin (1910-03-01 - 2002-07-28) from United Kingdom won a Nobel prize in chemistry (1952).
+Richard Laurence Millington, Synge (1914-10-28 - 1994-08-18) from United Kingdom won a Nobel prize in chemistry (1952).
+Hermann, Staudinger (1881-03-23 - 1965-09-08) from Germany won a Nobel prize in chemistry (1953).
+Linus Carl, Pauling (1901-02-28 - 1994-08-19) from USA won a Nobel prize in chemistry (1954), in peace (1962).
+Vincent, du Vigneaud (1901-05-18 - 1978-12-11) from USA won a Nobel prize in chemistry (1955).
+Sir Cyril Norman, Hinshelwood (1897-05-19 - 1967-10-09) from United Kingdom won a Nobel prize in chemistry (1956).
+Nikolay Nikolaevich, Semenov (1896-04-03 - 1986-09-25) from Russia won a Nobel prize in chemistry (1956).
+Lord (Alexander R.), Todd (1907-10-02 - 1997-01-10) from Scotland won a Nobel prize in chemistry (1957).
+Frederick, Sanger (1918-08-13 - 2013-11-19) from United Kingdom won a Nobel prize in chemistry (1958), in chemistry (1980).
+Jaroslav, Heyrovsky (1890-12-20 - 1967-03-27) from Austria-Hungary (now Czech Republic) won a Nobel prize in chemistry (1959).
+Willard Frank, Libby (1908-12-17 - 1980-09-08) from USA won a Nobel prize in chemistry (1960).
+Melvin, Calvin (1911-04-08 - 1997-01-08) from USA won a Nobel prize in chemistry (1961).
+Max Ferdinand, Perutz (1914-05-19 - 2002-02-06) from Austria won a Nobel prize in chemistry (1962).
+John Cowdery, Kendrew (1917-03-24 - 1997-08-23) from United Kingdom won a Nobel prize in chemistry (1962).
+Karl, Ziegler (1898-11-26 - 1973-08-12) from Germany won a Nobel prize in chemistry (1963).
+Giulio, Natta (1903-02-26 - 1979-05-02) from Italy won a Nobel prize in chemistry (1963).
+Dorothy Crowfoot, Hodgkin (1910-05-12 - 1994-07-29) from Egypt won a Nobel prize in chemistry (1964).
+Robert Burns, Woodward (1917-04-10 - 1979-07-08) from USA won a Nobel prize in chemistry (1965).
+Robert S., Mulliken (1896-06-07 - 1986-10-31) from USA won a Nobel prize in chemistry (1966).
+Manfred, Eigen (1927-05-09 - 2019-02-06) from Germany won a Nobel prize in chemistry (1967).
+Ronald George Wreyford, Norrish (1897-11-09 - 1978-06-07) from United Kingdom won a Nobel prize in chemistry (1967).
+George, Porter (1920-12-06 - 2002-08-31) from United Kingdom won a Nobel prize in chemistry (1967).
+Lars, Onsager (1903-11-27 - 1976-10-05) from Norway won a Nobel prize in chemistry (1968).
+Derek H. R., Barton (1918-09-08 - 1998-03-16) from United Kingdom won a Nobel prize in chemistry (1969).
+Odd, Hassel (1897-05-17 - 1981-05-11) from Norway won a Nobel prize in chemistry (1969).
+Luis F., Leloir (1906-09-06 - 1987-12-02) from France won a Nobel prize in chemistry (1970).
+Gerhard, Herzberg (1904-12-25 - 1999-03-03) from Germany won a Nobel prize in chemistry (1971).
+Christian B., Anfinsen (1916-03-26 - 1995-05-14) from USA won a Nobel prize in chemistry (1972).
+Stanford, Moore (1913-09-04 - 1982-08-23) from USA won a Nobel prize in chemistry (1972).
+William H., Stein (1911-06-25 - 1980-02-02) from USA won a Nobel prize in chemistry (1972).
+Ernst Otto, Fischer (1918-11-10 - 2007-07-23) from Germany won a Nobel prize in chemistry (1973).
+Geoffrey, Wilkinson (1921-07-14 - 1996-09-26) from United Kingdom won a Nobel prize in chemistry (1973).
+Paul J., Flory (1910-06-19 - 1985-09-08) from USA won a Nobel prize in chemistry (1974).
+John Warcup, Cornforth (1917-09-07 - 2013-12-08) from Australia won a Nobel prize in chemistry (1975).
+Vladimir, Prelog (1906-07-23 - 1998-01-07) from Austria-Hungary (now Bosnia and Herzegovina) won a Nobel prize in chemistry (1975).
+William N., Lipscomb (1919-12-09 - 2011-04-14) from USA won a Nobel prize in chemistry (1976).
+Ilya, Prigogine (1917-01-25 - 2003-05-28) from Russia won a Nobel prize in chemistry (1977).
+Peter D., Mitchell (1920-09-29 - 1992-04-10) from United Kingdom won a Nobel prize in chemistry (1978).
+Herbert C., Brown (1912-05-22 - 2004-12-19) from United Kingdom won a Nobel prize in chemistry (1979).
+Georg, Wittig (1897-06-16 - 1987-08-26) from Germany won a Nobel prize in chemistry (1979).
+Paul, Berg (1926-06-30 - N/A) from USA won a Nobel prize in chemistry (1980).
+Walter, Gilbert (1932-03-21 - N/A) from USA won a Nobel prize in chemistry (1980).
+Kenichi, Fukui (1918-10-04 - 1998-01-09) from Japan won a Nobel prize in chemistry (1981).
+Roald, Hoffmann (1937-07-18 - N/A) from Poland (now Ukraine) won a Nobel prize in chemistry (1981).
+Aaron, Klug (1926-08-11 - 2018-11-20) from Lithuania won a Nobel prize in chemistry (1982).
+Henry, Taube (1915-11-30 - 2005-11-16) from Canada won a Nobel prize in chemistry (1983).
+Robert Bruce, Merrifield (1921-07-15 - 2006-05-14) from USA won a Nobel prize in chemistry (1984).
+Herbert A., Hauptman (1917-02-14 - 2011-10-23) from USA won a Nobel prize in chemistry (1985).
+Jerome, Karle (1918-06-18 - 2013-06-06) from USA won a Nobel prize in chemistry (1985).
+Dudley R., Herschbach (1932-06-18 - N/A) from USA won a Nobel prize in chemistry (1986).
+Yuan T., Lee (1936-11-19 - N/A) from Taiwan won a Nobel prize in chemistry (1986).
+John C., Polanyi (1929-01-23 - N/A) from Germany won a Nobel prize in chemistry (1986).
+Donald J., Cram (1919-04-22 - 2001-06-17) from USA won a Nobel prize in chemistry (1987).
+Jean-Marie, Lehn (1939-09-30 - N/A) from France won a Nobel prize in chemistry (1987).
+Charles J., Pedersen (1904-10-03 - 1989-10-26) from Korea (now South Korea) won a Nobel prize in chemistry (1987).
+Johann, Deisenhofer (1943-09-30 - N/A) from Germany won a Nobel prize in chemistry (1988).
+Robert, Huber (1937-02-20 - N/A) from Germany won a Nobel prize in chemistry (1988).
+Hartmut, Michel (1948-07-18 - N/A) from West Germany (now Germany) won a Nobel prize in chemistry (1988).
+Sidney, Altman (1939-05-07 - N/A) from Canada won a Nobel prize in chemistry (1989).
+Thomas R., Cech (1947-12-08 - N/A) from USA won a Nobel prize in chemistry (1989).
+Elias James, Corey (1928-07-12 - N/A) from USA won a Nobel prize in chemistry (1990).
+Richard R., Ernst (1933-08-14 - N/A) from Switzerland won a Nobel prize in chemistry (1991).
+Rudolph A., Marcus (1923-07-21 - N/A) from Canada won a Nobel prize in chemistry (1992).
+Kary B., Mullis (1944-12-28 - N/A) from USA won a Nobel prize in chemistry (1993).
+Michael, Smith (1932-04-26 - 2000-10-04) from United Kingdom won a Nobel prize in chemistry (1993).
+George A., Olah (1927-05-22 - 2017-03-08) from Hungary won a Nobel prize in chemistry (1994).
+Paul J., Crutzen (1933-12-03 - N/A) from the Netherlands won a Nobel prize in chemistry (1995).
+Mario J., Molina (1943-03-19 - N/A) from Mexico won a Nobel prize in chemistry (1995).
+F. Sherwood, Rowland (1927-06-28 - 2012-03-10) from USA won a Nobel prize in chemistry (1995).
+Robert F., Curl Jr. (1933-08-23 - N/A) from USA won a Nobel prize in chemistry (1996).
+Sir Harold W., Kroto (1939-10-07 - 2016-04-30) from United Kingdom won a Nobel prize in chemistry (1996).
+Richard E., Smalley (1943-06-06 - 2005-10-28) from USA won a Nobel prize in chemistry (1996).
+Paul D., Boyer (1918-07-31 - 2018-06-02) from USA won a Nobel prize in chemistry (1997).
+John E., Walker (1941-01-07 - N/A) from United Kingdom won a Nobel prize in chemistry (1997).
+Jens C., Skou (1918-10-08 - 2018-05-28) from Denmark won a Nobel prize in chemistry (1997).
+Walter, Kohn (1923-03-09 - 2016-04-19) from Austria won a Nobel prize in chemistry (1998).
+John A., Pople (1925-10-31 - 2004-03-15) from United Kingdom won a Nobel prize in chemistry (1998).
+Ahmed H., Zewail (1946-02-26 - 2016-08-02) from Egypt won a Nobel prize in chemistry (1999).
+Emil Adolf, von Behring (1854-03-15 - 1917-03-31) from Prussia (now Poland) won a Nobel prize in medicine (1901).
+Ronald, Ross (1857-05-13 - 1932-09-16) from India won a Nobel prize in medicine (1902).
+Niels Ryberg, Finsen (1860-12-15 - 1904-09-24) from Faroe Islands (Denmark) won a Nobel prize in medicine (1903).
+Ivan Petrovich, Pavlov (1849-09-14 - 1936-02-27) from Russia won a Nobel prize in medicine (1904).
+Robert, Koch (1843-12-11 - 1910-05-27) from Germany won a Nobel prize in medicine (1905).
+Camillo, Golgi (1843-07-07 - 1926-01-21) from Italy won a Nobel prize in medicine (1906).
+Santiago, Ramón y Cajal (1852-05-01 - 1934-10-17) from Spain won a Nobel prize in medicine (1906).
+Charles Louis Alphonse, Laveran (1845-06-18 - 1922-05-18) from France won a Nobel prize in medicine (1907).
+Ilya Ilyich, Mechnikov (1845-05-15 - 1916-07-15) from Russian Empire (now Ukraine) won a Nobel prize in medicine (1908).
+Paul, Ehrlich (1854-03-14 - 1915-08-20) from Prussia (now Poland) won a Nobel prize in medicine (1908).
+Emil Theodor, Kocher (1841-08-25 - 1917-07-27) from Switzerland won a Nobel prize in medicine (1909).
+Albrecht, Kossel (1853-09-16 - 1927-07-05) from Mecklenburg (now Germany) won a Nobel prize in medicine (1910).
+Allvar, Gullstrand (1862-06-05 - 1930-07-28) from Sweden won a Nobel prize in medicine (1911).
+Alexis, Carrel (1873-06-28 - 1944-11-05) from France won a Nobel prize in medicine (1912).
+Charles Robert, Richet (1850-08-26 - 1935-12-04) from France won a Nobel prize in medicine (1913).
+Robert, Bárány (1876-04-22 - 1936-04-08) from Austria won a Nobel prize in medicine (1914).
+Jules, Bordet (1870-06-13 - 1961-04-06) from Belgium won a Nobel prize in medicine (1919).
+Schack August Steenberg, Krogh (1874-11-15 - 1949-09-13) from Denmark won a Nobel prize in medicine (1920).
+Archibald Vivian, Hill (1886-09-26 - 1977-06-03) from United Kingdom won a Nobel prize in medicine (1922).
+Otto Fritz, Meyerhof (1884-04-12 - 1951-10-06) from Germany won a Nobel prize in medicine (1922).
+Frederick Grant, Banting (1891-11-14 - 1941-02-21) from Canada won a Nobel prize in medicine (1923).
+John James Rickard, Macleod (1876-09-06 - 1935-03-16) from Scotland won a Nobel prize in medicine (1923).
+Willem, Einthoven (1860-05-21 - 1927-09-29) from Java, Dutch East Indies (now Indonesia) won a Nobel prize in medicine (1924).
+Johannes Andreas Grib, Fibiger (1867-04-23 - 1928-01-30) from Denmark won a Nobel prize in medicine (1926).
+Julius, Wagner-Jauregg (1857-03-07 - 1940-09-27) from Austria won a Nobel prize in medicine (1927).
+Charles Jules Henri, Nicolle (1866-09-21 - 1936-02-28) from France won a Nobel prize in medicine (1928).
+Christiaan, Eijkman (1858-08-11 - 1930-11-05) from the Netherlands won a Nobel prize in medicine (1929).
+Sir Frederick Gowland, Hopkins (1861-06-20 - 1947-05-16) from United Kingdom won a Nobel prize in medicine (1929).
+Karl, Landsteiner (1868-06-14 - 1943-06-26) from Austrian Empire (now Austria) won a Nobel prize in medicine (1930).
+Otto Heinrich, Warburg (1883-10-08 - 1970-08-01) from Germany won a Nobel prize in medicine (1931).
+Sir Charles Scott, Sherrington (1857-11-27 - 1952-03-04) from United Kingdom won a Nobel prize in medicine (1932).
+Edgar Douglas, Adrian (1889-11-30 - 1977-08-08) from United Kingdom won a Nobel prize in medicine (1932).
+Thomas Hunt, Morgan (1866-09-25 - 1945-12-04) from USA won a Nobel prize in medicine (1933).
+George Hoyt, Whipple (1878-08-28 - 1976-02-01) from USA won a Nobel prize in medicine (1934).
+George Richards, Minot (1885-12-02 - 1950-02-25) from USA won a Nobel prize in medicine (1934).
+William Parry, Murphy (1892-02-06 - 1987-10-09) from USA won a Nobel prize in medicine (1934).
+Hans, Spemann (1869-06-27 - 1941-09-12) from W&uuml;rttemberg (now Germany) won a Nobel prize in medicine (1935).
+Sir Henry Hallett, Dale (1875-06-09 - 1968-07-23) from United Kingdom won a Nobel prize in medicine (1936).
+Otto, Loewi (1873-06-03 - 1961-12-25) from Germany won a Nobel prize in medicine (1936).
+Albert, von Szent-Györgyi Nagyrápolt (1893-09-16 - 1986-10-22) from Austria-Hungary (now Hungary) won a Nobel prize in medicine (1937).
+Corneille Jean François, Heymans (1892-03-28 - 1968-07-18) from Belgium won a Nobel prize in medicine (1938).
+Gerhard, Domagk (1895-10-30 - 1964-04-24) from Germany (now Poland) won a Nobel prize in medicine (1939).
+Henrik Carl Peter, Dam (1895-02-21 - 1976-04-17) from Denmark won a Nobel prize in medicine (1943).
+Edward Adelbert, Doisy (1893-11-13 - 1986-10-23) from USA won a Nobel prize in medicine (1943).
+Joseph, Erlanger (1874-01-05 - 1965-12-05) from USA won a Nobel prize in medicine (1944).
+Herbert Spencer, Gasser (1888-07-05 - 1963-05-11) from USA won a Nobel prize in medicine (1944).
+Sir Alexander, Fleming (1881-08-06 - 1955-03-11) from Scotland won a Nobel prize in medicine (1945).
+Ernst Boris, Chain (1906-06-19 - 1979-08-12) from Germany won a Nobel prize in medicine (1945).
+Sir Howard Walter, Florey (1898-09-24 - 1968-02-21) from Australia won a Nobel prize in medicine (1945).
+Hermann Joseph, Muller (1890-12-21 - 1967-04-05) from USA won a Nobel prize in medicine (1946).
+Carl Ferdinand, Cori (1896-12-05 - 1984-10-20) from Austria-Hungary (now Czech Republic) won a Nobel prize in medicine (1947).
+Gerty Theresa, Cori, née Radnitz (1896-08-15 - 1957-10-26) from Austria-Hungary (now Czech Republic) won a Nobel prize in medicine (1947).
+Bernardo Alberto, Houssay (1887-04-10 - 1971-09-21) from Argentina won a Nobel prize in medicine (1947).
+Paul Hermann, Müller (1899-01-12 - 1965-10-12) from Switzerland won a Nobel prize in medicine (1948).
+Walter Rudolf, Hess (1881-03-17 - 1973-08-12) from Switzerland won a Nobel prize in medicine (1949).
+Antonio Caetano de Abreu Freire Egas, Moniz (1874-11-29 - 1955-12-13) from Portugal won a Nobel prize in medicine (1949).
+Edward Calvin, Kendall (1886-03-08 - 1972-05-04) from USA won a Nobel prize in medicine (1950).
+Tadeus, Reichstein (1897-07-20 - 1996-08-01) from Poland won a Nobel prize in medicine (1950).
+Philip Showalter, Hench (1896-02-28 - 1965-03-30) from USA won a Nobel prize in medicine (1950).
+Max, Theiler (1899-01-30 - 1972-08-11) from South Africa won a Nobel prize in medicine (1951).
+Selman Abraham, Waksman (1888-07-22 - 1973-08-16) from Russian Empire (now Ukraine) won a Nobel prize in medicine (1952).
+Hans Adolf, Krebs (1900-08-25 - 1981-11-22) from Germany won a Nobel prize in medicine (1953).
+Fritz Albert, Lipmann (1899-06-12 - 1986-07-24) from Germany (now Russia) won a Nobel prize in medicine (1953).
+John Franklin, Enders (1897-02-10 - 1985-09-08) from USA won a Nobel prize in medicine (1954).
+Thomas Huckle, Weller (1915-06-15 - 2008-08-23) from USA won a Nobel prize in medicine (1954).
+Frederick Chapman, Robbins (1916-08-25 - 2003-08-04) from USA won a Nobel prize in medicine (1954).
+Axel Hugo Theodor, Theorell (1903-07-06 - 1982-08-15) from Sweden won a Nobel prize in medicine (1955).
+André Frédéric, Cournand (1895-09-24 - 1988-02-19) from France won a Nobel prize in medicine (1956).
+Werner, Forssmann (1904-08-29 - 1979-06-01) from Germany won a Nobel prize in medicine (1956).
+Dickinson W., Richards (1895-10-30 - 1973-02-23) from USA won a Nobel prize in medicine (1956).
+Daniel, Bovet (1907-03-23 - 1992-04-08) from Switzerland won a Nobel prize in medicine (1957).
+George Wells, Beadle (1903-10-22 - 1989-06-09) from USA won a Nobel prize in medicine (1958).
+Edward Lawrie, Tatum (1909-12-14 - 1975-11-05) from USA won a Nobel prize in medicine (1958).
+Joshua, Lederberg (1925-05-23 - 2008-02-02) from USA won a Nobel prize in medicine (1958).
+Severo, Ochoa (1905-09-24 - 1993-11-01) from Spain won a Nobel prize in medicine (1959).
+Arthur, Kornberg (1918-03-03 - 2007-10-26) from USA won a Nobel prize in medicine (1959).
+Sir Frank Macfarlane, Burnet (1899-09-03 - 1985-08-31) from Australia won a Nobel prize in medicine (1960).
+Peter Brian, Medawar (1915-02-28 - 1987-10-02) from Brazil won a Nobel prize in medicine (1960).
+Georg, von Békésy (1899-06-03 - 1972-06-13) from Hungary won a Nobel prize in medicine (1961).
+Francis Harry Compton, Crick (1916-06-08 - 2004-07-28) from United Kingdom won a Nobel prize in medicine (1962).
+James Dewey, Watson (1928-04-06 - N/A) from USA won a Nobel prize in medicine (1962).
+Maurice Hugh Frederick, Wilkins (1916-12-15 - 2004-10-05) from New Zealand won a Nobel prize in medicine (1962).
+Sir John Carew, Eccles (1903-01-27 - 1997-05-02) from Australia won a Nobel prize in medicine (1963).
+Alan Lloyd, Hodgkin (1914-02-05 - 1998-12-20) from United Kingdom won a Nobel prize in medicine (1963).
+Andrew Fielding, Huxley (1917-11-22 - 2012-05-30) from United Kingdom won a Nobel prize in medicine (1963).
+Konrad, Bloch (1912-01-21 - 2000-10-15) from Germany (now Poland) won a Nobel prize in medicine (1964).
+Feodor, Lynen (1911-04-06 - 1979-08-06) from Germany won a Nobel prize in medicine (1964).
+François, Jacob (1920-06-17 - 2013-04-19) from France won a Nobel prize in medicine (1965).
+André, Lwoff (1902-05-08 - 1994-09-30) from France won a Nobel prize in medicine (1965).
+Jacques, Monod (1910-02-09 - 1976-05-31) from France won a Nobel prize in medicine (1965).
+Peyton, Rous (1879-10-05 - 1970-02-16) from USA won a Nobel prize in medicine (1966).
+Charles Brenton, Huggins (1901-09-22 - 1997-01-12) from Canada won a Nobel prize in medicine (1966).
+Ragnar, Granit (1900-10-30 - 1991-03-12) from Russian Empire (now Finland) won a Nobel prize in medicine (1967).
+Haldan Keffer, Hartline (1903-12-22 - 1983-03-17) from USA won a Nobel prize in medicine (1967).
+George, Wald (1906-11-18 - 1997-04-12) from USA won a Nobel prize in medicine (1967).
+Robert W., Holley (1922-01-28 - 1993-02-11) from USA won a Nobel prize in medicine (1968).
+Har Gobind, Khorana (1922-01-09 - 2011-11-09) from India won a Nobel prize in medicine (1968).
+Marshall W., Nirenberg (1927-04-10 - 2010-01-15) from USA won a Nobel prize in medicine (1968).
+Max, Delbrück (1906-09-04 - 1981-03-09) from Germany won a Nobel prize in medicine (1969).
+Alfred D., Hershey (1908-12-04 - 1997-05-22) from USA won a Nobel prize in medicine (1969).
+Salvador E., Luria (1912-08-13 - 1991-02-06) from Italy won a Nobel prize in medicine (1969).
+Sir Bernard, Katz (1911-03-26 - 2003-04-20) from Germany won a Nobel prize in medicine (1970).
+Ulf, von Euler (1905-02-07 - 1983-03-09) from Sweden won a Nobel prize in medicine (1970).
+Julius, Axelrod (1912-05-30 - 2004-12-29) from USA won a Nobel prize in medicine (1970).
+Earl W., Sutherland, Jr. (1915-11-19 - 1974-03-09) from USA won a Nobel prize in medicine (1971).
+Gerald M., Edelman (1929-07-01 - 2014-05-17) from USA won a Nobel prize in medicine (1972).
+Rodney R., Porter (1917-10-08 - 1985-09-06) from United Kingdom won a Nobel prize in medicine (1972).
+Karl, von Frisch (1886-11-20 - 1982-06-12) from Austria won a Nobel prize in medicine (1973).
+Konrad, Lorenz (1903-11-07 - 1989-02-27) from Austria won a Nobel prize in medicine (1973).
+Nikolaas, Tinbergen (1907-04-15 - 1988-12-21) from the Netherlands won a Nobel prize in medicine (1973).
+Albert, Claude (1898-08-24 - 1983-05-22) from Belgium won a Nobel prize in medicine (1974).
+Christian, de Duve (1917-10-02 - 2013-05-04) from United Kingdom won a Nobel prize in medicine (1974).
+George E., Palade (1912-11-19 - 2008-10-07) from Romania won a Nobel prize in medicine (1974).
+David, Baltimore (1938-03-07 - N/A) from USA won a Nobel prize in medicine (1975).
+Renato, Dulbecco (1914-02-22 - 2012-02-19) from Italy won a Nobel prize in medicine (1975).
+Howard Martin, Temin (1934-12-10 - 1994-02-09) from USA won a Nobel prize in medicine (1975).
+Baruch S., Blumberg (1925-07-28 - 2011-04-05) from USA won a Nobel prize in medicine (1976).
+D. Carleton, Gajdusek (1923-09-09 - 2008-12-12) from USA won a Nobel prize in medicine (1976).
+Roger, Guillemin (1924-01-11 - N/A) from France won a Nobel prize in medicine (1977).
+Andrew V., Schally (1926-11-30 - N/A) from Poland (now Lithuania) won a Nobel prize in medicine (1977).
+Rosalyn, Yalow (1921-07-19 - 2011-05-30) from USA won a Nobel prize in medicine (1977).
+Werner, Arber (1929-06-03 - N/A) from Switzerland won a Nobel prize in medicine (1978).
+Daniel, Nathans (1928-10-30 - 1999-11-16) from USA won a Nobel prize in medicine (1978).
+Hamilton O., Smith (1931-08-23 - N/A) from USA won a Nobel prize in medicine (1978).
+Allan M., Cormack (1924-02-23 - 1998-05-07) from South Africa won a Nobel prize in medicine (1979).
+Godfrey N., Hounsfield (1919-08-28 - 2004-08-12) from United Kingdom won a Nobel prize in medicine (1979).
+Baruj, Benacerraf (1920-10-29 - 2011-08-02) from Venezuela won a Nobel prize in medicine (1980).
+Jean, Dausset (1916-10-19 - 2009-06-06) from France won a Nobel prize in medicine (1980).
+George D., Snell (1903-12-19 - 1996-06-06) from USA won a Nobel prize in medicine (1980).
+Roger W., Sperry (1913-08-20 - 1994-04-17) from USA won a Nobel prize in medicine (1981).
+David H., Hubel (1926-02-27 - 2013-09-22) from Canada won a Nobel prize in medicine (1981).
+Torsten N., Wiesel (1924-06-03 - N/A) from Sweden won a Nobel prize in medicine (1981).
+Sune K., Bergström (1916-01-10 - 2004-08-15) from Sweden won a Nobel prize in medicine (1982).
+Bengt I., Samuelsson (1934-05-21 - N/A) from Sweden won a Nobel prize in medicine (1982).
+John R., Vane (1927-03-29 - 2004-11-19) from United Kingdom won a Nobel prize in medicine (1982).
+Barbara, McClintock (1902-06-16 - 1992-09-02) from USA won a Nobel prize in medicine (1983).
+Niels K., Jerne (1911-12-23 - 1994-10-07) from United Kingdom won a Nobel prize in medicine (1984).
+Georges J.F., Köhler (1946-04-17 - 1995-03-01) from Germany won a Nobel prize in medicine (1984).
+César, Milstein (1927-10-08 - 2002-03-24) from Argentina won a Nobel prize in medicine (1984).
+Michael S., Brown (1941-04-13 - N/A) from USA won a Nobel prize in medicine (1985).
+Joseph L., Goldstein (1940-04-18 - N/A) from USA won a Nobel prize in medicine (1985).
+Stanley, Cohen (1922-11-17 - N/A) from USA won a Nobel prize in medicine (1986).
+Rita, Levi-Montalcini (1909-04-22 - 2012-12-30) from Italy won a Nobel prize in medicine (1986).
+Susumu, Tonegawa (1939-09-05 - N/A) from Japan won a Nobel prize in medicine (1987).
+Sir James W., Black (1924-06-14 - 2010-03-21) from Scotland won a Nobel prize in medicine (1988).
+Gertrude B., Elion (1918-01-23 - 1999-02-21) from USA won a Nobel prize in medicine (1988).
+George H., Hitchings (1905-04-18 - 1998-02-27) from USA won a Nobel prize in medicine (1988).
+J. Michael, Bishop (1936-02-22 - N/A) from USA won a Nobel prize in medicine (1989).
+Harold E., Varmus (1939-12-18 - N/A) from USA won a Nobel prize in medicine (1989).
+Joseph E., Murray (1919-04-01 - 2012-11-26) from USA won a Nobel prize in medicine (1990).
+E. Donnall, Thomas (1920-03-15 - 2012-10-20) from USA won a Nobel prize in medicine (1990).
+Erwin, Neher (1944-03-20 - N/A) from Germany won a Nobel prize in medicine (1991).
+Bert, Sakmann (1942-06-12 - N/A) from Germany won a Nobel prize in medicine (1991).
+Edmond H., Fischer (1920-04-06 - N/A) from China won a Nobel prize in medicine (1992).
+Edwin G., Krebs (1918-06-06 - 2009-12-21) from USA won a Nobel prize in medicine (1992).
+Richard J., Roberts (1943-09-06 - N/A) from United Kingdom won a Nobel prize in medicine (1993).
+Phillip A., Sharp (1944-06-06 - N/A) from USA won a Nobel prize in medicine (1993).
+Alfred G., Gilman (1941-07-01 - 2015-12-23) from USA won a Nobel prize in medicine (1994).
+Martin, Rodbell (1925-12-01 - 1998-12-07) from USA won a Nobel prize in medicine (1994).
+Edward B., Lewis (1918-05-20 - 2004-07-21) from USA won a Nobel prize in medicine (1995).
+Christiane, Nüsslein-Volhard (1942-10-20 - N/A) from Germany won a Nobel prize in medicine (1995).
+Eric F., Wieschaus (1947-06-08 - N/A) from USA won a Nobel prize in medicine (1995).
+Peter C., Doherty (1940-10-15 - N/A) from Australia won a Nobel prize in medicine (1996).
+Rolf M., Zinkernagel (1944-01-06 - N/A) from Switzerland won a Nobel prize in medicine (1996).
+Stanley B., Prusiner (1942-05-28 - N/A) from USA won a Nobel prize in medicine (1997).
+Robert F., Furchgott (1916-06-04 - 2009-05-19) from USA won a Nobel prize in medicine (1998).
+Louis J., Ignarro (1941-05-31 - N/A) from USA won a Nobel prize in medicine (1998).
+Ferid, Murad (1936-09-14 - N/A) from USA won a Nobel prize in medicine (1998).
+Günter, Blobel (1936-05-21 - 2018-02-18) from Germany (now Poland) won a Nobel prize in medicine (1999).
+Jean Henry, Dunant (1828-05-08 - 1910-10-30) from Switzerland won a Nobel prize in peace (1901).
+Frédéric, Passy (1822-05-20 - 1912-06-12) from France won a Nobel prize in peace (1901).
+Élie, Ducommun (1833-02-19 - 1906-12-07) from Switzerland won a Nobel prize in peace (1902).
+Charles Albert, Gobat (1843-05-21 - 1914-03-16) from Switzerland won a Nobel prize in peace (1902).
+William Randal, Cremer (1828-03-18 - 1908-07-22) from United Kingdom won a Nobel prize in peace (1903).
+Institut de droit international (Institute of International Law),  (N/A - N/A) from  won a Nobel prize in peace (1904).
+Baroness Bertha Sophie Felicita, von Suttner, née Countess Kinsky von Chinic und Tettau (1843-06-09 - 1914-06-21) from Austrian Empire (now Czech Republic) won a Nobel prize in peace (1905).
+Theodore, Roosevelt (1858-10-27 - 1919-01-06) from USA won a Nobel prize in peace (1906).
+Ernesto Teodoro, Moneta (1833-09-20 - 1918-02-10) from Austrian Empire (now Italy) won a Nobel prize in peace (1907).
+Louis, Renault (1843-05-21 - 1918-02-08) from France won a Nobel prize in peace (1907).
+Klas Pontus, Arnoldson (1844-10-27 - 1916-02-20) from Sweden won a Nobel prize in peace (1908).
+Fredrik, Bajer (1837-04-21 - 1922-01-22) from Denmark won a Nobel prize in peace (1908).
+Auguste Marie François, Beernaert (1829-07-26 - 1912-10-06) from Belgium won a Nobel prize in peace (1909).
+Paul Henri Benjamin Balluet, d'Estournelles de Constant, Baron de Constant de Rebecque (1852-11-22 - 1924-05-15) from France won a Nobel prize in peace (1909).
+Bureau international permanent de la Paix (Permanent International Peace Bureau),  (N/A - N/A) from  won a Nobel prize in peace (1910).
+Tobias Michael Carel, Asser (1838-04-28 - 1913-07-29) from the Netherlands won a Nobel prize in peace (1911).
+Alfred Hermann, Fried (1864-11-11 - 1921-05-05) from Austria won a Nobel prize in peace (1911).
+Elihu, Root (1845-02-15 - 1937-02-07) from USA won a Nobel prize in peace (1912).
+Henri, La Fontaine (1854-04-22 - 1943-05-14) from Belgium won a Nobel prize in peace (1913).
+Comité international de la Croix Rouge (International Committee of the Red Cross),  (N/A - N/A) from  won a Nobel prize in peace (1917), in peace (1944), in peace (1963).
+Thomas Woodrow, Wilson (1856-12-28 - 1924-02-03) from USA won a Nobel prize in peace (1919).
+Léon Victor Auguste, Bourgeois (1851-05-21 - 1925-09-29) from France won a Nobel prize in peace (1920).
+Karl Hjalmar, Branting (1860-11-23 - 1925-02-24) from Sweden won a Nobel prize in peace (1921).
+Christian Lous, Lange (1869-09-17 - 1938-12-11) from Norway won a Nobel prize in peace (1921).
+Fridtjof, Nansen (1861-10-10 - 1930-05-13) from Norway won a Nobel prize in peace (1922).
+Sir Austen, Chamberlain (1863-10-16 - 1937-03-16) from United Kingdom won a Nobel prize in peace (1925).
+Charles Gates, Dawes (1865-08-27 - 1951-04-23) from USA won a Nobel prize in peace (1925).
+Aristide, Briand (1862-03-28 - 1932-03-07) from France won a Nobel prize in peace (1926).
+Gustav, Stresemann (1878-05-10 - 1929-10-03) from Germany won a Nobel prize in peace (1926).
+Ferdinand, Buisson (1841-12-20 - 1932-02-16) from France won a Nobel prize in peace (1927).
+Ludwig, Quidde (1858-03-23 - 1941-03-04) from Germany won a Nobel prize in peace (1927).
+Frank Billings, Kellogg (1856-12-22 - 1937-12-21) from USA won a Nobel prize in peace (1929).
+Lars Olof Jonathan (Nathan), Söderblom (1866-01-15 - 1931-07-12) from Sweden won a Nobel prize in peace (1930).
+Jane, Addams (1860-09-06 - 1935-05-21) from USA won a Nobel prize in peace (1931).
+Nicholas Murray, Butler (1862-04-02 - 1947-12-07) from USA won a Nobel prize in peace (1931).
+Sir Norman, Angell (Ralph Lane) (1872-12-26 - 1967-10-07) from United Kingdom won a Nobel prize in peace (1933).
+Arthur, Henderson (1863-09-13 - 1935-10-20) from Scotland won a Nobel prize in peace (1934).
+Carl, von Ossietzky (1889-10-03 - 1938-05-04) from Germany won a Nobel prize in peace (1935).
+Carlos, Saavedra Lamas (1878-11-01 - 1959-05-05) from Argentina won a Nobel prize in peace (1936).
+Cecil of Chelwood, Viscount, (Lord Edgar Algernon Robert Gascoyne Cecil) (1864-09-14 - 1958-11-24) from United Kingdom won a Nobel prize in peace (1937).
+Office international Nansen pour les Réfugiés (Nansen International Office for Refugees),  (N/A - N/A) from  won a Nobel prize in peace (1938).
+Cordell, Hull (1871-10-02 - 1955-07-23) from USA won a Nobel prize in peace (1945).
+Emily Greene, Balch (1867-01-08 - 1961-01-09) from USA won a Nobel prize in peace (1946).
+John Raleigh, Mott (1865-05-25 - 1955-01-31) from USA won a Nobel prize in peace (1946).
+Friends Service Council (The Quakers),  (N/A - N/A) from  won a Nobel prize in peace (1947).
+American Friends Service Committee (The Quakers),  (N/A - N/A) from  won a Nobel prize in peace (1947).
+Lord (John), Boyd Orr of Brechin (1880-09-23 - 1971-06-25) from Scotland won a Nobel prize in peace (1949).
+Ralph, Bunche (1904-08-07 - 1971-12-09) from USA won a Nobel prize in peace (1950).
+Léon, Jouhaux (1879-07-01 - 1954-04-28) from France won a Nobel prize in peace (1951).
+Albert, Schweitzer (1875-01-14 - 1965-09-04) from Germany (now France) won a Nobel prize in peace (1952).
+George Catlett, Marshall (1880-12-31 - 1959-10-16) from USA won a Nobel prize in peace (1953).
+Office of the United Nations High Commissioner for Refugees (UNHCR),  (N/A - N/A) from  won a Nobel prize in peace (1954), in peace (1981).
+Lester Bowles, Pearson (1897-04-23 - 1972-12-27) from Canada won a Nobel prize in peace (1957).
+Georges, Pire (1910-02-10 - 1969-01-30) from Belgium won a Nobel prize in peace (1958).
+Philip J., Noel-Baker (1889-11-01 - 1982-10-08) from United Kingdom won a Nobel prize in peace (1959).
+Albert John, Lutuli (1898-00-00 - 1967-07-21) from Southern Rhodesia (now Zimbabwe) won a Nobel prize in peace (1960).
+Dag Hjalmar Agne Carl, Hammarskjöld (1905-07-29 - 1961-09-18) from Sweden won a Nobel prize in peace (1961).
+Ligue des Sociétés de la Croix-Rouge (League of Red Cross Societies),  (N/A - N/A) from  won a Nobel prize in peace (1963).
+Martin Luther, King Jr. (1929-01-15 - 1968-04-04) from USA won a Nobel prize in peace (1964).
+United Nations Children's Fund (UNICEF),  (N/A - N/A) from  won a Nobel prize in peace (1965).
+René, Cassin (1887-10-05 - 1976-02-20) from France won a Nobel prize in peace (1968).
+International Labour Organization (I.L.O.),  (N/A - N/A) from  won a Nobel prize in peace (1969).
+Norman E., Borlaug (1914-03-25 - 2009-09-12) from USA won a Nobel prize in peace (1970).
+Willy, Brandt (1913-12-18 - 1992-10-08) from Germany won a Nobel prize in peace (1971).
+Henry A., Kissinger (1923-05-27 - N/A) from Germany won a Nobel prize in peace (1973).
+Le Duc Tho,  (1911-10-14 - 1990-10-13) from Vietnam won a Nobel prize in peace (1973).
+Seán, MacBride (1904-01-26 - 1988-01-15) from France won a Nobel prize in peace (1974).
+Eisaku, Sato (1901-03-27 - 1975-06-03) from Japan won a Nobel prize in peace (1974).
+Andrei Dmitrievich, Sakharov (1921-05-21 - 1989-12-14) from Russia won a Nobel prize in peace (1975).
+Betty, Williams (1943-05-22 - N/A) from Northern Ireland won a Nobel prize in peace (1976).
+Mairead, Corrigan (1944-01-27 - N/A) from Northern Ireland won a Nobel prize in peace (1976).
+Amnesty International,  (N/A - N/A) from  won a Nobel prize in peace (1977).
+Mohamed Anwar, al-Sadat (1918-12-25 - 1981-10-06) from Egypt won a Nobel prize in peace (1978).
+Menachem, Begin (1913-08-16 - 1992-03-09) from Russian Empire (now Belarus) won a Nobel prize in peace (1978).
+Mother Teresa,  (1910-08-26 - 1997-09-05) from Ottoman Empire (now Republic of Macedonia) won a Nobel prize in peace (1979).
+Adolfo, Pérez Esquivel (1931-11-26 - N/A) from Argentina won a Nobel prize in peace (1980).
+Alva, Myrdal (1902-01-31 - 1986-02-01) from Sweden won a Nobel prize in peace (1982).
+Alfonso, García Robles (1911-03-20 - 1991-09-02) from Mexico won a Nobel prize in peace (1982).
+Lech, Walesa (1943-09-29 - N/A) from Poland won a Nobel prize in peace (1983).
+Desmond Mpilo, Tutu (1931-10-07 - N/A) from South Africa won a Nobel prize in peace (1984).
+International Physicians for the Prevention of Nuclear War,  (N/A - N/A) from  won a Nobel prize in peace (1985).
+Elie, Wiesel (1928-09-30 - 2016-07-02) from Romania won a Nobel prize in peace (1986).
+Oscar, Arias Sánchez (1941-09-13 - N/A) from Costa Rica won a Nobel prize in peace (1987).
+United Nations Peacekeeping Forces,  (N/A - N/A) from  won a Nobel prize in peace (1988).
+The 14th Dalai Lama (Tenzin Gyatso),  (1935-07-06 - N/A) from Tibet (now People's Republic of China) won a Nobel prize in peace (1989).
+Mikhail Sergeyevich, Gorbachev (1931-03-02 - N/A) from USSR (now Russia) won a Nobel prize in peace (1990).
+Aung San Suu Kyi,  (1945-06-19 - N/A) from Burma (now Myanmar) won a Nobel prize in peace (1991).
+Rigoberta, Menchú Tum (1959-01-09 - N/A) from Guatemala won a Nobel prize in peace (1992).
+Nelson, Mandela (1918-07-18 - 2013-12-05) from South Africa won a Nobel prize in peace (1993).
+Frederik Willem, de Klerk (1936-03-18 - N/A) from South Africa won a Nobel prize in peace (1993).
+Yasser, Arafat (1929-08-24 - 2004-11-11) from Egypt won a Nobel prize in peace (1994).
+Shimon, Peres (1923-08-16 - 2016-09-28) from Poland (now Belarus) won a Nobel prize in peace (1994).
+Yitzhak, Rabin (1922-03-01 - 1995-11-04) from British Mandate of Palestine (now Israel) won a Nobel prize in peace (1994).
+Joseph, Rotblat (1908-11-04 - 2005-08-31) from Russian Empire (now Poland) won a Nobel prize in peace (1995).
+Pugwash Conferences on Science and World Affairs,  (N/A - N/A) from  won a Nobel prize in peace (1995).
+Carlos Filipe Ximenes, Belo (1948-02-03 - N/A) from East Timor won a Nobel prize in peace (1996).
+José, Ramos-Horta (1949-12-26 - N/A) from East Timor won a Nobel prize in peace (1996).
+International Campaign to Ban Landmines (ICBL),  (N/A - N/A) from  won a Nobel prize in peace (1997).
+Jody, Williams (1950-10-09 - N/A) from USA won a Nobel prize in peace (1997).
+John, Hume (1937-01-18 - N/A) from Northern Ireland won a Nobel prize in peace (1998).
+David, Trimble (1944-10-15 - N/A) from Northern Ireland won a Nobel prize in peace (1998).
+Médecins Sans Frontières,  (N/A - N/A) from  won a Nobel prize in peace (1999).
+Sully, Prudhomme (1839-03-16 - 1907-09-07) from France won a Nobel prize in literature (1901).
+Christian Matthias Theodor, Mommsen (1817-11-30 - 1903-11-01) from Schleswig (now Germany) won a Nobel prize in literature (1902).
+Bjørnstjerne Martinus, Bjørnson (1832-12-08 - 1910-04-26) from Norway won a Nobel prize in literature (1903).
+Frédéric, Mistral (1830-09-08 - 1914-03-25) from France won a Nobel prize in literature (1904).
+José, Echegaray y Eizaguirre (1832-04-19 - 1916-09-04) from Spain won a Nobel prize in literature (1904).
+Henryk, Sienkiewicz (1846-05-05 - 1916-11-15) from Poland won a Nobel prize in literature (1905).
+Giosuè, Carducci (1835-07-27 - 1907-02-16) from Tuscany (now Italy) won a Nobel prize in literature (1906).
+Rudyard, Kipling (1865-12-30 - 1936-01-18) from British India (now India) won a Nobel prize in literature (1907).
+Rudolf Christoph, Eucken (1846-01-05 - 1926-09-14) from East Friesland (now Germany) won a Nobel prize in literature (1908).
+Selma Ottilia Lovisa, Lagerlöf (1858-11-20 - 1940-03-16) from Sweden won a Nobel prize in literature (1909).
+Paul Johann Ludwig, Heyse (1830-03-15 - 1914-04-02) from Prussia (now Germany) won a Nobel prize in literature (1910).
+Count Maurice (Mooris) Polidore Marie Bernhard, Maeterlinck (1862-08-29 - 1949-05-06) from Belgium won a Nobel prize in literature (1911).
+Gerhart Johann Robert, Hauptmann (1862-11-15 - 1946-06-06) from Prussia (now Germany) won a Nobel prize in literature (1912).
+Rabindranath, Tagore (1861-05-07 - 1941-08-07) from India won a Nobel prize in literature (1913).
+Romain, Rolland (1866-01-29 - 1944-12-30) from France won a Nobel prize in literature (1915).
+Carl Gustaf Verner, von Heidenstam (1859-07-06 - 1940-05-20) from Sweden won a Nobel prize in literature (1916).
+Karl Adolph, Gjellerup (1857-06-02 - 1919-10-11) from Denmark won a Nobel prize in literature (1917).
+Henrik, Pontoppidan (1857-07-24 - 1943-08-21) from Denmark won a Nobel prize in literature (1917).
+Carl Friedrich Georg, Spitteler (1845-04-24 - 1924-12-29) from Switzerland won a Nobel prize in literature (1919).
+Knut Pedersen, Hamsun (1859-08-04 - 1952-02-19) from Norway won a Nobel prize in literature (1920).
+Anatole, France (1844-04-16 - 1924-10-12) from France won a Nobel prize in literature (1921).
+Jacinto, Benavente (1866-08-12 - 1954-07-14) from Spain won a Nobel prize in literature (1922).
+William Butler, Yeats (1865-06-13 - 1939-01-28) from Ireland won a Nobel prize in literature (1923).
+Wladyslaw Stanislaw, Reymont (1867-05-07 - 1925-12-05) from Russian Empire (now Poland) won a Nobel prize in literature (1924).
+George Bernard, Shaw (1856-07-26 - 1950-11-02) from Ireland won a Nobel prize in literature (1925).
+Grazia, Deledda (1871-09-27 - 1936-08-15) from Italy won a Nobel prize in literature (1926).
+Henri, Bergson (1859-10-18 - 1941-01-04) from France won a Nobel prize in literature (1927).
+Sigrid, Undset (1882-05-20 - 1949-06-10) from Denmark won a Nobel prize in literature (1928).
+Thomas, Mann (1875-06-06 - 1955-08-12) from Germany won a Nobel prize in literature (1929).
+Sinclair, Lewis (1885-02-07 - 1951-01-10) from USA won a Nobel prize in literature (1930).
+Erik Axel, Karlfeldt (1864-07-20 - 1931-04-08) from Sweden won a Nobel prize in literature (1931).
+John, Galsworthy (1867-08-14 - 1933-01-31) from United Kingdom won a Nobel prize in literature (1932).
+Ivan Alekseyevich, Bunin (1870-10-22 - 1953-11-08) from Russia won a Nobel prize in literature (1933).
+Luigi, Pirandello (1867-06-28 - 1936-12-10) from Italy won a Nobel prize in literature (1934).
+Eugene Gladstone, O'Neill (1888-10-16 - 1953-11-27) from USA won a Nobel prize in literature (1936).
+Roger, Martin du Gard (1881-03-23 - 1958-08-22) from France won a Nobel prize in literature (1937).
+Pearl, Buck (1892-06-26 - 1973-03-06) from USA won a Nobel prize in literature (1938).
+Frans Eemil, Sillanpää (1888-09-16 - 1964-06-03) from Russian Empire (now Finland) won a Nobel prize in literature (1939).
+Johannes Vilhelm, Jensen (1873-01-20 - 1950-11-25) from Denmark won a Nobel prize in literature (1944).
+Gabriela, Mistral (1889-04-07 - 1957-01-10) from Chile won a Nobel prize in literature (1945).
+Hermann, Hesse (1877-07-02 - 1962-08-09) from Germany won a Nobel prize in literature (1946).
+André Paul Guillaume, Gide (1869-11-22 - 1951-02-19) from France won a Nobel prize in literature (1947).
+Thomas Stearns, Eliot (1888-09-26 - 1965-01-04) from USA won a Nobel prize in literature (1948).
+William, Faulkner (1897-09-25 - 1962-07-06) from USA won a Nobel prize in literature (1949).
+Earl (Bertrand Arthur William), Russell (1872-05-18 - 1970-02-02) from United Kingdom won a Nobel prize in literature (1950).
+Pär Fabian, Lagerkvist (1891-05-23 - 1974-07-11) from Sweden won a Nobel prize in literature (1951).
+François, Mauriac (1885-10-11 - 1970-09-01) from France won a Nobel prize in literature (1952).
+Sir Winston Leonard Spencer, Churchill (1874-11-30 - 1965-01-24) from United Kingdom won a Nobel prize in literature (1953).
+Ernest Miller, Hemingway (1899-07-21 - 1961-07-02) from USA won a Nobel prize in literature (1954).
+Halldór Kiljan, Laxness (1902-04-23 - 1998-02-08) from Iceland won a Nobel prize in literature (1955).
+Juan Ramón, Jiménez (1881-12-24 - 1958-05-29) from Spain won a Nobel prize in literature (1956).
+Albert, Camus (1913-11-07 - 1960-01-04) from French Algeria (now Algeria) won a Nobel prize in literature (1957).
+Boris Leonidovich, Pasternak (1890-02-10 - 1960-05-30) from Russia won a Nobel prize in literature (1958).
+Salvatore, Quasimodo (1901-08-20 - 1968-06-14) from Italy won a Nobel prize in literature (1959).
+Saint-John, Perse (1887-05-31 - 1975-09-20) from Guadeloupe Island won a Nobel prize in literature (1960).
+Ivo, Andric (1892-10-10 - 1975-03-13) from Bosnia (now Bosnia and Herzegovina) won a Nobel prize in literature (1961).
+John, Steinbeck (1902-02-27 - 1968-12-20) from USA won a Nobel prize in literature (1962).
+Giorgos, Seferis (1900-03-13 - 1971-09-20) from Ottoman Empire (now Turkey) won a Nobel prize in literature (1963).
+Jean-Paul, Sartre (1905-06-21 - 1980-04-15) from France won a Nobel prize in literature (1964).
+Mikhail Aleksandrovich, Sholokhov (1905-05-24 - 1984-02-21) from Russia won a Nobel prize in literature (1965).
+Shmuel Yosef, Agnon (1888-07-17 - 1970-02-17) from Austria-Hungary (now Ukraine) won a Nobel prize in literature (1966).
+Nelly, Sachs (1891-12-10 - 1970-05-12) from Germany won a Nobel prize in literature (1966).
+Miguel Angel, Asturias (1899-10-19 - 1974-06-09) from Guatemala won a Nobel prize in literature (1967).
+Yasunari, Kawabata (1899-06-11 - 1972-04-16) from Japan won a Nobel prize in literature (1968).
+Samuel, Beckett (1906-04-13 - 1989-12-22) from Ireland won a Nobel prize in literature (1969).
+Aleksandr Isayevich, Solzhenitsyn (1918-12-11 - 2008-08-03) from Russia won a Nobel prize in literature (1970).
+Pablo, Neruda (1904-07-12 - 1973-09-23) from Chile won a Nobel prize in literature (1971).
+Heinrich, Böll (1917-12-21 - 1985-07-16) from Germany won a Nobel prize in literature (1972).
+Patrick, White (1912-05-28 - 1990-09-30) from United Kingdom won a Nobel prize in literature (1973).
+Eyvind, Johnson (1900-07-29 - 1976-08-25) from Sweden won a Nobel prize in literature (1974).
+Harry, Martinson (1904-05-06 - 1978-02-11) from Sweden won a Nobel prize in literature (1974).
+Eugenio, Montale (1896-10-12 - 1981-09-12) from Italy won a Nobel prize in literature (1975).
+Saul, Bellow (1915-06-10 - 2005-04-05) from Canada won a Nobel prize in literature (1976).
+Vicente, Aleixandre (1898-04-26 - 1984-12-14) from Spain won a Nobel prize in literature (1977).
+Isaac Bashevis, Singer (1904-07-14 - 1991-07-24) from Russian Empire (now Poland) won a Nobel prize in literature (1978).
+Odysseus, Elytis (1911-11-02 - 1996-03-18) from Crete (now Greece) won a Nobel prize in literature (1979).
+Czeslaw, Milosz (1911-06-30 - 2004-08-14) from Russian Empire (now Lithuania) won a Nobel prize in literature (1980).
+Elias, Canetti (1905-07-25 - 1994-08-14) from Bulgaria won a Nobel prize in literature (1981).
+Gabriel, García Márquez (1927-03-06 - 2014-04-17) from Colombia won a Nobel prize in literature (1982).
+William, Golding (1911-09-19 - 1993-06-19) from United Kingdom won a Nobel prize in literature (1983).
+Jaroslav, Seifert (1901-09-23 - 1986-01-10) from Austria-Hungary (now Czech Republic) won a Nobel prize in literature (1984).
+Claude, Simon (1913-10-10 - 2005-07-06) from Madagascar won a Nobel prize in literature (1985).
+Wole, Soyinka (1934-07-13 - N/A) from Nigeria won a Nobel prize in literature (1986).
+Joseph, Brodsky (1940-05-24 - 1996-01-28) from USSR (now Russia) won a Nobel prize in literature (1987).
+Naguib, Mahfouz (1911-12-11 - 2006-08-30) from Egypt won a Nobel prize in literature (1988).
+Camilo José, Cela (1916-05-11 - 2002-01-17) from Spain won a Nobel prize in literature (1989).
+Octavio, Paz (1914-03-31 - 1998-04-19) from Mexico won a Nobel prize in literature (1990).
+Nadine, Gordimer (1923-11-20 - 2014-07-13) from South Africa won a Nobel prize in literature (1991).
+Derek, Walcott (1930-01-23 - 2017-03-17) from Saint Lucia won a Nobel prize in literature (1992).
+Toni, Morrison (1931-02-18 - N/A) from USA won a Nobel prize in literature (1993).
+Kenzaburo, Oe (1935-01-31 - N/A) from Japan won a Nobel prize in literature (1994).
+Seamus, Heaney (1939-04-13 - 2013-08-30) from Northern Ireland won a Nobel prize in literature (1995).
+Wislawa, Szymborska (1923-07-02 - 2012-02-01) from Poland won a Nobel prize in literature (1996).
+Dario, Fo (1926-03-24 - 2016-10-13) from Italy won a Nobel prize in literature (1997).
+José, Saramago (1922-11-16 - 2010-06-18) from Portugal won a Nobel prize in literature (1998).
+Günter, Grass (1927-10-16 - 2015-04-13) from Free City of Danzig (now Poland) won a Nobel prize in literature (1999).
+Ragnar, Frisch (1895-03-03 - 1973-01-31) from Norway won a Nobel prize in economics (1969).
+Jan, Tinbergen (1903-04-12 - 1994-06-09) from the Netherlands won a Nobel prize in economics (1969).
+Paul A., Samuelson (1915-05-15 - 2009-12-13) from USA won a Nobel prize in economics (1970).
+Simon, Kuznets (1901-04-30 - 1985-07-08) from Russian Empire (now Belarus) won a Nobel prize in economics (1971).
+John R., Hicks (1904-04-08 - 1989-05-20) from United Kingdom won a Nobel prize in economics (1972).
+Kenneth J., Arrow (1921-08-23 - 2017-02-21) from USA won a Nobel prize in economics (1972).
+Wassily, Leontief (1906-08-05 - 1999-02-05) from Russia won a Nobel prize in economics (1973).
+Gunnar, Myrdal (1898-12-06 - 1987-05-17) from Sweden won a Nobel prize in economics (1974).
+Friedrich August, von Hayek (1899-05-08 - 1992-03-23) from Austria won a Nobel prize in economics (1974).
+Leonid Vitaliyevich, Kantorovich (1912-01-19 - 1986-04-07) from Russian Empire (now Russia) won a Nobel prize in economics (1975).
+Tjalling C., Koopmans (1910-08-28 - 1985-02-26) from the Netherlands won a Nobel prize in economics (1975).
+Milton, Friedman (1912-07-31 - 2006-11-16) from USA won a Nobel prize in economics (1976).
+Bertil, Ohlin (1899-04-23 - 1979-08-03) from Sweden won a Nobel prize in economics (1977).
+James E., Meade (1907-06-23 - 1995-12-22) from United Kingdom won a Nobel prize in economics (1977).
+Herbert A., Simon (1916-06-15 - 2001-02-09) from USA won a Nobel prize in economics (1978).
+Theodore W., Schultz (1902-04-30 - 1998-02-26) from USA won a Nobel prize in economics (1979).
+Sir Arthur, Lewis (1915-01-23 - 1991-06-15) from British West Indies (now Saint Lucia) won a Nobel prize in economics (1979).
+Lawrence R., Klein (1920-09-14 - 2013-10-20) from USA won a Nobel prize in economics (1980).
+James, Tobin (1918-03-05 - 2002-03-11) from USA won a Nobel prize in economics (1981).
+George J., Stigler (1911-01-17 - 1991-12-01) from USA won a Nobel prize in economics (1982).
+Gerard, Debreu (1921-07-04 - 2004-12-31) from France won a Nobel prize in economics (1983).
+Richard, Stone (1913-08-30 - 1991-12-06) from United Kingdom won a Nobel prize in economics (1984).
+Franco, Modigliani (1918-06-18 - 2003-09-25) from Italy won a Nobel prize in economics (1985).
+James M., Buchanan Jr. (1919-10-03 - 2013-01-09) from USA won a Nobel prize in economics (1986).
+Robert M., Solow (1924-08-23 - N/A) from USA won a Nobel prize in economics (1987).
+Maurice, Allais (1911-05-31 - 2010-10-09) from France won a Nobel prize in economics (1988).
+Trygve, Haavelmo (1911-12-13 - 1999-07-26) from Norway won a Nobel prize in economics (1989).
+Harry M., Markowitz (1927-08-24 - N/A) from USA won a Nobel prize in economics (1990).
+Merton H., Miller (1923-05-16 - 2000-06-03) from USA won a Nobel prize in economics (1990).
+William F., Sharpe (1934-06-16 - N/A) from USA won a Nobel prize in economics (1990).
+Ronald H., Coase (1910-12-29 - 2013-09-02) from United Kingdom won a Nobel prize in economics (1991).
+Gary S., Becker (1930-12-02 - 2014-05-03) from USA won a Nobel prize in economics (1992).
+Robert W., Fogel (1927-07-01 - 2013-06-11) from USA won a Nobel prize in economics (1993).
+Douglass C., North (1920-11-05 - 2015-11-23) from USA won a Nobel prize in economics (1993).
+John C., Harsanyi (1920-05-29 - 2000-08-09) from Hungary won a Nobel prize in economics (1994).
+John F., Nash Jr. (1928-06-13 - 2015-05-23) from USA won a Nobel prize in economics (1994).
+Reinhard, Selten (1930-10-05 - 2016-08-23) from Germany (now Poland) won a Nobel prize in economics (1994).
+Robert E., Lucas Jr. (1937-09-15 - N/A) from USA won a Nobel prize in economics (1995).
+James A., Mirrlees (1936-07-05 - 2018-08-29) from Scotland won a Nobel prize in economics (1996).
+William, Vickrey (1914-06-21 - 1996-10-11) from Canada won a Nobel prize in economics (1996).
+Robert C., Merton (1944-07-31 - N/A) from USA won a Nobel prize in economics (1997).
+Myron S., Scholes (1941-07-01 - N/A) from Canada won a Nobel prize in economics (1997).
+Amartya, Sen (1933-11-03 - N/A) from India won a Nobel prize in economics (1998).
+Robert A., Mundell (1932-10-24 - N/A) from Canada won a Nobel prize in economics (1999).
+Il´ja Mikhailovich, Frank (1908-10-23 - 1990-06-22) from Russia won a Nobel prize in physics (1958).
+Arvid, Carlsson (1923-01-25 - 2018-06-29) from Sweden won a Nobel prize in medicine (2000).
+Paul, Greengard (1925-12-11 - 2019-04-13) from USA won a Nobel prize in medicine (2000).
+Eric R., Kandel (1929-11-07 - N/A) from Austria won a Nobel prize in medicine (2000).
+Kim, Dae-jung (1925-12-03 - 2009-08-18) from Korea (now South Korea) won a Nobel prize in peace (2000).
+Zhores I., Alferov (1930-03-15 - 2019-03-01) from USSR (now Belarus) won a Nobel prize in physics (2000).
+Herbert, Kroemer (1928-08-25 - N/A) from Germany won a Nobel prize in physics (2000).
+Jack S., Kilby (1923-11-08 - 2005-06-20) from USA won a Nobel prize in physics (2000).
+Alan J., Heeger (1936-01-22 - N/A) from USA won a Nobel prize in chemistry (2000).
+Alan G., MacDiarmid (1927-04-14 - 2007-02-07) from New Zealand won a Nobel prize in chemistry (2000).
+Hideki, Shirakawa (1936-08-20 - N/A) from Japan won a Nobel prize in chemistry (2000).
+James J., Heckman (1944-04-19 - N/A) from USA won a Nobel prize in economics (2000).
+Daniel L., McFadden (1937-07-29 - N/A) from USA won a Nobel prize in economics (2000).
+Gao, Xingjian (1940-01-04 - N/A) from China won a Nobel prize in literature (2000).
+Leland H., Hartwell (1939-10-30 - N/A) from USA won a Nobel prize in medicine (2001).
+Tim, Hunt (1943-02-19 - N/A) from United Kingdom won a Nobel prize in medicine (2001).
+Sir Paul M., Nurse (1949-01-25 - N/A) from United Kingdom won a Nobel prize in medicine (2001).
+Eric A., Cornell (1961-12-19 - N/A) from USA won a Nobel prize in physics (2001).
+Wolfgang, Ketterle (1957-10-21 - N/A) from West Germany (now Germany) won a Nobel prize in physics (2001).
+Carl E., Wieman (1951-03-26 - N/A) from USA won a Nobel prize in physics (2001).
+William S., Knowles (1917-06-01 - 2012-06-13) from USA won a Nobel prize in chemistry (2001).
+Ryoji, Noyori (1938-09-03 - N/A) from Japan won a Nobel prize in chemistry (2001).
+K. Barry, Sharpless (1941-04-28 - N/A) from USA won a Nobel prize in chemistry (2001).
+George A., Akerlof (1940-06-17 - N/A) from USA won a Nobel prize in economics (2001).
+A. Michael, Spence (1943-00-00 - N/A) from USA won a Nobel prize in economics (2001).
+Joseph E., Stiglitz (1943-02-09 - N/A) from USA won a Nobel prize in economics (2001).
+Sir Vidiadhar Surajprasad, Naipaul (1932-08-17 - 2018-08-11) from  won a Nobel prize in literature (2001).
+United Nations (U.N.),  (N/A - N/A) from  won a Nobel prize in peace (2001).
+Kofi, Annan (1938-04-08 - N/A) from Gold Coast (now Ghana) won a Nobel prize in peace (2001).
+Sydney, Brenner (1927-01-13 - 2019-04-05) from South Africa won a Nobel prize in medicine (2002).
+H. Robert, Horvitz (1947-05-08 - N/A) from USA won a Nobel prize in medicine (2002).
+John E., Sulston (1942-03-27 - 2018-03-06) from United Kingdom won a Nobel prize in medicine (2002).
+Raymond, Davis Jr. (1914-10-14 - 2006-05-31) from USA won a Nobel prize in physics (2002).
+Masatoshi, Koshiba (1926-09-19 - N/A) from Japan won a Nobel prize in physics (2002).
+Riccardo, Giacconi (1931-10-06 - 2018-12-16) from Italy won a Nobel prize in physics (2002).
+John B., Fenn (1917-06-15 - 2010-12-10) from USA won a Nobel prize in chemistry (2002).
+Koichi, Tanaka (1959-08-03 - N/A) from Japan won a Nobel prize in chemistry (2002).
+Kurt, Wüthrich (1938-10-04 - N/A) from Switzerland won a Nobel prize in chemistry (2002).
+Daniel, Kahneman (1934-03-05 - N/A) from British Mandate of Palestine (now Israel) won a Nobel prize in economics (2002).
+Vernon L., Smith (1927-01-01 - N/A) from USA won a Nobel prize in economics (2002).
+Imre, Kertész (1929-11-09 - 2016-03-31) from Hungary won a Nobel prize in literature (2002).
+Jimmy, Carter (1924-10-01 - N/A) from USA won a Nobel prize in peace (2002).
+John M., Coetzee (1940-02-09 - N/A) from South Africa won a Nobel prize in literature (2003).
+Paul C., Lauterbur (1929-05-06 - 2007-03-27) from USA won a Nobel prize in medicine (2003).
+Sir Peter, Mansfield (1933-10-09 - 2017-02-08) from United Kingdom won a Nobel prize in medicine (2003).
+Alexei A., Abrikosov (1928-06-25 - 2017-03-29) from USSR (now Russia) won a Nobel prize in physics (2003).
+Vitaly L., Ginzburg (1916-10-04 - 2009-11-08) from Russia won a Nobel prize in physics (2003).
+Anthony J., Leggett (1938-03-26 - N/A) from United Kingdom won a Nobel prize in physics (2003).
+Peter, Agre (1949-01-30 - N/A) from USA won a Nobel prize in chemistry (2003).
+Roderick, MacKinnon (1956-02-19 - N/A) from USA won a Nobel prize in chemistry (2003).
+Robert F., Engle III (1942-11-10 - N/A) from USA won a Nobel prize in economics (2003).
+Clive W.J., Granger (1934-09-04 - 2009-05-27) from United Kingdom won a Nobel prize in economics (2003).
+Shirin, Ebadi (1947-06-21 - N/A) from Iran won a Nobel prize in peace (2003).
+Richard, Axel (1946-07-02 - N/A) from USA won a Nobel prize in medicine (2004).
+Linda B., Buck (1947-01-29 - N/A) from USA won a Nobel prize in medicine (2004).
+David J., Gross (1941-02-19 - N/A) from USA won a Nobel prize in physics (2004).
+H. David, Politzer (1949-08-31 - N/A) from USA won a Nobel prize in physics (2004).
+Frank, Wilczek (1951-05-15 - N/A) from USA won a Nobel prize in physics (2004).
+Aaron, Ciechanover (1947-10-01 - N/A) from British Protectorate of Palestine (now Israel) won a Nobel prize in chemistry (2004).
+Avram, Hershko (1937-12-31 - N/A) from Hungary won a Nobel prize in chemistry (2004).
+Irwin, Rose (1926-07-16 - 2015-06-03) from USA won a Nobel prize in chemistry (2004).
+Elfriede, Jelinek (1946-10-20 - N/A) from Austria won a Nobel prize in literature (2004).
+Wangari Muta, Maathai (1940-04-01 - 2011-09-25) from Kenya won a Nobel prize in peace (2004).
+Finn E., Kydland (1943-12-01 - N/A) from Norway won a Nobel prize in economics (2004).
+Edward C., Prescott (1940-12-26 - N/A) from USA won a Nobel prize in economics (2004).
+Barry J., Marshall (1951-09-30 - N/A) from Australia won a Nobel prize in medicine (2005).
+J. Robin, Warren (1937-06-11 - N/A) from Australia won a Nobel prize in medicine (2005).
+Roy J., Glauber (1925-09-01 - 2018-12-26) from USA won a Nobel prize in physics (2005).
+John L., Hall (1934-08-21 - N/A) from USA won a Nobel prize in physics (2005).
+Theodor W., Hänsch (1941-10-30 - N/A) from Germany won a Nobel prize in physics (2005).
+Yves, Chauvin (1930-10-10 - 2015-01-27) from Belgium won a Nobel prize in chemistry (2005).
+Robert H., Grubbs (1942-02-27 - N/A) from USA won a Nobel prize in chemistry (2005).
+Richard R., Schrock (1945-01-04 - N/A) from USA won a Nobel prize in chemistry (2005).
+International Atomic Energy Agency (IAEA),  (N/A - N/A) from  won a Nobel prize in peace (2005).
+Mohamed, ElBaradei (1942-06-17 - N/A) from Egypt won a Nobel prize in peace (2005).
+Robert J., Aumann (1930-06-08 - N/A) from Germany won a Nobel prize in economics (2005).
+Thomas C., Schelling (1921-04-14 - 2016-12-13) from USA won a Nobel prize in economics (2005).
+Harold, Pinter (1930-10-10 - 2008-12-24) from United Kingdom won a Nobel prize in literature (2005).
+Andrew Z., Fire (1959-04-27 - N/A) from USA won a Nobel prize in medicine (2006).
+Craig C., Mello (1960-10-19 - N/A) from USA won a Nobel prize in medicine (2006).
+John C., Mather (1946-08-07 - N/A) from USA won a Nobel prize in physics (2006).
+George F., Smoot (1945-02-20 - N/A) from USA won a Nobel prize in physics (2006).
+Roger D., Kornberg (1947-04-24 - N/A) from USA won a Nobel prize in chemistry (2006).
+Edmund S., Phelps (1933-07-26 - N/A) from USA won a Nobel prize in economics (2006).
+Orhan, Pamuk (1952-06-07 - N/A) from Turkey won a Nobel prize in literature (2006).
+Muhammad, Yunus (1940-06-28 - N/A) from British India (now Bangladesh) won a Nobel prize in peace (2006).
+Grameen Bank,  (N/A - N/A) from  won a Nobel prize in peace (2006).
+Mario R., Capecchi (1937-10-06 - N/A) from Italy won a Nobel prize in medicine (2007).
+Sir Martin J., Evans (1941-01-01 - N/A) from United Kingdom won a Nobel prize in medicine (2007).
+Oliver, Smithies (1925-06-23 - 2017-01-10) from United Kingdom won a Nobel prize in medicine (2007).
+Albert, Fert (1938-03-07 - N/A) from France won a Nobel prize in physics (2007).
+Peter, Grünberg (1939-05-18 - 2018-04-09) from Czechoslovakia (now Czech Republic) won a Nobel prize in physics (2007).
+Gerhard, Ertl (1936-10-10 - N/A) from Germany won a Nobel prize in chemistry (2007).
+Doris, Lessing (1919-10-22 - 2013-11-17) from Persia (now Iran) won a Nobel prize in literature (2007).
+Intergovernmental Panel on Climate Change (IPCC),  (N/A - N/A) from  won a Nobel prize in peace (2007).
+Albert Arnold (Al), Gore Jr. (1948-03-31 - N/A) from USA won a Nobel prize in peace (2007).
+Leonid, Hurwicz (1917-08-21 - 2008-06-24) from Russia won a Nobel prize in economics (2007).
+Eric S., Maskin (1950-12-12 - N/A) from USA won a Nobel prize in economics (2007).
+Roger B., Myerson (1951-03-29 - N/A) from USA won a Nobel prize in economics (2007).
+Harald, zur Hausen (1936-03-11 - N/A) from Germany won a Nobel prize in medicine (2008).
+Françoise, Barré-Sinoussi (1947-07-30 - N/A) from France won a Nobel prize in medicine (2008).
+Luc, Montagnier (1932-08-18 - N/A) from France won a Nobel prize in medicine (2008).
+Yoichiro, Nambu (1921-01-18 - 2015-07-05) from Japan won a Nobel prize in physics (2008).
+Makoto, Kobayashi (1944-04-07 - N/A) from Japan won a Nobel prize in physics (2008).
+Toshihide, Maskawa (1940-02-07 - N/A) from Japan won a Nobel prize in physics (2008).
+Osamu, Shimomura (1928-08-27 - 2018-10-19) from Japan won a Nobel prize in chemistry (2008).
+Martin, Chalfie (1947-01-15 - N/A) from USA won a Nobel prize in chemistry (2008).
+Roger Y., Tsien (1952-02-01 - 2016-08-24) from USA won a Nobel prize in chemistry (2008).
+Jean-Marie Gustave, Le Clézio (1940-04-13 - N/A) from France won a Nobel prize in literature (2008).
+Martti, Ahtisaari (1937-06-23 - N/A) from Finland won a Nobel prize in peace (2008).
+Paul, Krugman (1953-02-28 - N/A) from USA won a Nobel prize in economics (2008).
+Elizabeth H., Blackburn (1948-11-26 - N/A) from Australia won a Nobel prize in medicine (2009).
+Carol W., Greider (1961-04-15 - N/A) from USA won a Nobel prize in medicine (2009).
+Jack W., Szostak (1952-11-09 - N/A) from United Kingdom won a Nobel prize in medicine (2009).
+Charles Kuen, Kao (1933-11-04 - 2018-09-23) from China won a Nobel prize in physics (2009).
+Willard S., Boyle (1924-08-19 - 2011-05-07) from Canada won a Nobel prize in physics (2009).
+George E., Smith (1930-05-10 - N/A) from USA won a Nobel prize in physics (2009).
+Venkatraman, Ramakrishnan (N/A - N/A) from India won a Nobel prize in chemistry (2009).
+Thomas A., Steitz (1940-08-23 - 2018-08-23) from USA won a Nobel prize in chemistry (2009).
+Ada E., Yonath (1939-06-22 - N/A) from British Mandate of Palestine (now Israel) won a Nobel prize in chemistry (2009).
+Herta, Müller (1953-08-17 - N/A) from Romania won a Nobel prize in literature (2009).
+Barack H., Obama (1961-08-04 - N/A) from USA won a Nobel prize in peace (2009).
+Elinor, Ostrom (1933-08-07 - 2012-06-12) from USA won a Nobel prize in economics (2009).
+Oliver E., Williamson (1932-09-27 - N/A) from USA won a Nobel prize in economics (2009).
+Robert G., Edwards (1925-09-27 - 2013-04-10) from United Kingdom won a Nobel prize in medicine (2010).
+Andre, Geim (1958-10-21 - N/A) from Russia won a Nobel prize in physics (2010).
+Konstantin, Novoselov (1974-08-23 - N/A) from Russia won a Nobel prize in physics (2010).
+Richard F., Heck (1931-08-15 - 2015-10-09) from USA won a Nobel prize in chemistry (2010).
+Ei-ichi, Negishi (1935-07-14 - N/A) from China won a Nobel prize in chemistry (2010).
+Akira, Suzuki (1930-09-12 - N/A) from Japan won a Nobel prize in chemistry (2010).
+Mario, Vargas Llosa (1936-03-28 - N/A) from Peru won a Nobel prize in literature (2010).
+Liu, Xiaobo (1955-12-28 - 2017-07-13) from China won a Nobel prize in peace (2010).
+Peter A., Diamond (1940-04-29 - N/A) from USA won a Nobel prize in economics (2010).
+Dale T., Mortensen (1939-02-02 - 2014-01-09) from USA won a Nobel prize in economics (2010).
+Christopher A., Pissarides (1948-02-20 - N/A) from Cyprus won a Nobel prize in economics (2010).
+Bruce A., Beutler (1957-12-29 - N/A) from USA won a Nobel prize in medicine (2011).
+Jules A., Hoffmann (1941-08-02 - N/A) from Luxembourg won a Nobel prize in medicine (2011).
+Ralph M., Steinman (1943-01-14 - 2011-09-30) from Canada won a Nobel prize in medicine (2011).
+Saul, Perlmutter (N/A - N/A) from USA won a Nobel prize in physics (2011).
+Brian P., Schmidt (1967-02-24 - N/A) from USA won a Nobel prize in physics (2011).
+Adam G., Riess (1969-12-16 - N/A) from USA won a Nobel prize in physics (2011).
+Dan, Shechtman (1941-01-24 - N/A) from British Mandate of Palestine (now Israel) won a Nobel prize in chemistry (2011).
+Tomas, Tranströmer (1931-04-15 - 2015-03-26) from Sweden won a Nobel prize in literature (2011).
+Ellen, Johnson Sirleaf (1938-10-29 - N/A) from Liberia won a Nobel prize in peace (2011).
+Leymah, Gbowee (1972-02-01 - N/A) from Liberia won a Nobel prize in peace (2011).
+Tawakkol, Karman (1979-02-07 - N/A) from Yemen won a Nobel prize in peace (2011).
+Thomas J., Sargent (1943-07-19 - N/A) from USA won a Nobel prize in economics (2011).
+Christopher A., Sims (1942-10-21 - N/A) from USA won a Nobel prize in economics (2011).
+Sir John B., Gurdon (1933-10-02 - N/A) from United Kingdom won a Nobel prize in medicine (2012).
+Shinya, Yamanaka (1962-09-04 - N/A) from Japan won a Nobel prize in medicine (2012).
+Serge, Haroche (1944-09-11 - N/A) from Morocco won a Nobel prize in physics (2012).
+David J., Wineland (1944-02-24 - N/A) from USA won a Nobel prize in physics (2012).
+Robert J., Lefkowitz (1943-04-15 - N/A) from USA won a Nobel prize in chemistry (2012).
+Brian K., Kobilka (1955-05-30 - N/A) from USA won a Nobel prize in chemistry (2012).
+Mo, Yan (1955-02-02 - N/A) from China won a Nobel prize in literature (2012).
+European Union (EU),  (N/A - N/A) from  won a Nobel prize in peace (2012).
+Alvin E., Roth (1951-12-18 - N/A) from USA won a Nobel prize in economics (2012).
+Lloyd S., Shapley (1923-06-02 - 2016-03-12) from USA won a Nobel prize in economics (2012).
+James E., Rothman (1950-11-03 - N/A) from USA won a Nobel prize in medicine (2013).
+Randy W., Schekman (1948-12-30 - N/A) from USA won a Nobel prize in medicine (2013).
+Thomas C., Südhof (1955-12-22 - N/A) from Germany won a Nobel prize in medicine (2013).
+François, Englert (1932-11-06 - N/A) from Belgium won a Nobel prize in physics (2013).
+Peter W., Higgs (1929-05-29 - N/A) from United Kingdom won a Nobel prize in physics (2013).
+Martin, Karplus (1930-03-15 - N/A) from Austria won a Nobel prize in chemistry (2013).
+Michael, Levitt (1947-05-09 - N/A) from South Africa won a Nobel prize in chemistry (2013).
+Arieh, Warshel (1940-11-20 - N/A) from British Mandate of Palestine (now Israel) won a Nobel prize in chemistry (2013).
+Alice, Munro (1931-07-10 - N/A) from Canada won a Nobel prize in literature (2013).
+Organisation for the Prohibition of Chemical Weapons (OPCW),  (N/A - N/A) from  won a Nobel prize in peace (2013).
+Eugene F., Fama (1939-02-14 - N/A) from USA won a Nobel prize in economics (2013).
+Lars Peter, Hansen (1952-10-26 - N/A) from USA won a Nobel prize in economics (2013).
+Robert J., Shiller (1946-03-29 - N/A) from USA won a Nobel prize in economics (2013).
+,  (N/A - N/A) from  won a Nobel prize in  ().
+,  (N/A - N/A) from  won a Nobel prize in  ().
+,  (N/A - N/A) from  won a Nobel prize in  ().
+,  (N/A - N/A) from  won a Nobel prize in  ().
+,  (N/A - N/A) from  won a Nobel prize in  ().
+,  (N/A - N/A) from  won a Nobel prize in  ().
+John, O'Keefe (1939-11-18 - N/A) from USA won a Nobel prize in medicine (2014).
+May-Britt, Moser (1963-01-04 - N/A) from Norway won a Nobel prize in medicine (2014).
+Edvard I., Moser (1962-04-27 - N/A) from Norway won a Nobel prize in medicine (2014).
+Isamu, Akasaki (1929-01-30 - N/A) from Japan won a Nobel prize in physics (2014).
+Hiroshi, Amano (1960-09-11 - N/A) from Japan won a Nobel prize in physics (2014).
+Shuji, Nakamura (1954-05-22 - N/A) from Japan won a Nobel prize in physics (2014).
+Eric, Betzig (1960-01-13 - N/A) from USA won a Nobel prize in chemistry (2014).
+Stefan W., Hell (1962-12-23 - N/A) from Romania won a Nobel prize in chemistry (2014).
+William E., Moerner (1953-06-24 - N/A) from USA won a Nobel prize in chemistry (2014).
+Patrick, Modiano (1945-07-30 - N/A) from France won a Nobel prize in literature (2014).
+Kailash, Satyarthi (1954-01-11 - N/A) from India won a Nobel prize in peace (2014).
+Malala, Yousafzai (1997-07-12 - N/A) from Pakistan won a Nobel prize in peace (2014).
+Jean, Tirole (1953-08-09 - N/A) from France won a Nobel prize in economics (2014).
+William C., Campbell (1930-06-28 - N/A) from Ireland won a Nobel prize in medicine (2015).
+Satoshi, Ōmura (1935-07-12 - N/A) from Japan won a Nobel prize in medicine (2015).
+Tu, Youyou (1930-12-30 - N/A) from China won a Nobel prize in medicine (2015).
+Takaaki, Kajita (1959-03-09 - N/A) from Japan won a Nobel prize in physics (2015).
+Arthur B., McDonald (1943-08-29 - N/A) from Canada won a Nobel prize in physics (2015).
+Tomas, Lindahl (1938-01-28 - N/A) from Sweden won a Nobel prize in chemistry (2015).
+Paul, Modrich (1946-06-13 - N/A) from USA won a Nobel prize in chemistry (2015).
+Aziz, Sancar (1946-09-08 - N/A) from Turkey won a Nobel prize in chemistry (2015).
+Svetlana, Alexievich (1948-05-31 - N/A) from Ukraine won a Nobel prize in literature (2015).
+National Dialogue Quartet,  (N/A - N/A) from  won a Nobel prize in peace (2015).
+Angus, Deaton (1945-10-19 - N/A) from Scotland won a Nobel prize in economics (2015).
+Yoshinori, Ohsumi (1945-02-09 - N/A) from Japan won a Nobel prize in medicine (2016).
+David J., Thouless (1934-09-21 - 2019-04-06) from United Kingdom won a Nobel prize in physics (2016).
+F. Duncan M., Haldane (1951-09-14 - 2019-04-06) from United Kingdom won a Nobel prize in physics (2016).
+J. Michael, Kosterlitz (1943-06-22 - N/A) from United Kingdom won a Nobel prize in physics (2016).
+Jean-Pierre, Sauvage (1944-10-21 - N/A) from France won a Nobel prize in chemistry (2016).
+Sir J. Fraser, Stoddart (1942-05-24 - N/A) from United Kingdom won a Nobel prize in chemistry (2016).
+Bernard L., Feringa (1951-05-18 - N/A) from the Netherlands won a Nobel prize in chemistry (2016).
+Juan Manuel, Santos (1951-08-10 - N/A) from Colombia won a Nobel prize in peace (2016).
+Oliver, Hart (1948-10-09 - N/A) from United Kingdom won a Nobel prize in economics (2016).
+Bengt, Holmström (1949-04-18 - N/A) from Finland won a Nobel prize in economics (2016).
+Bob, Dylan (1941-05-24 - N/A) from USA won a Nobel prize in literature (2016).
+Jeffrey C., Hall (1945-05-03 - N/A) from USA won a Nobel prize in medicine (2017).
+Michael, Rosbash (1944-03-07 - N/A) from USA won a Nobel prize in medicine (2017).
+Michael W., Young (1949-03-28 - N/A) from USA won a Nobel prize in medicine (2017).
+Rainer, Weiss (1932-09-29 - N/A) from Germany won a Nobel prize in physics (2017).
+Barry C., Barish (1936-01-27 - N/A) from USA won a Nobel prize in physics (2017).
+Kip S., Thorne (1940-06-01 - N/A) from USA won a Nobel prize in physics (2017).
+Jacques, Dubochet (1942-06-08 - N/A) from Switzerland won a Nobel prize in chemistry (2017).
+Joachim, Frank (1940-09-12 - N/A) from Germany won a Nobel prize in chemistry (2017).
+Richard, Henderson (1945-07-19 - N/A) from Scotland won a Nobel prize in chemistry (2017).
+Kazuo, Ishiguro (1954-11-08 - N/A) from Japan won a Nobel prize in literature (2017).
+International Campaign to Abolish Nuclear Weapons (ICAN),  (N/A - N/A) from  won a Nobel prize in peace (2017).
+Richard H., Thaler (1945-09-12 - N/A) from USA won a Nobel prize in economics (2017).
+James P., Allison (1948-08-07 - N/A) from USA won a Nobel prize in medicine (2018).
+Tasuku, Honjo (1942-01-27 - N/A) from Japan won a Nobel prize in medicine (2018).
+Arthur, Ashkin (1922-09-02 - N/A) from USA won a Nobel prize in physics (2018).
+Gérard, Mourou (1944-06-22 - N/A) from France won a Nobel prize in physics (2018).
+Donna, Strickland (1959-05-27 - N/A) from Canada won a Nobel prize in physics (2018).
+Frances H., Arnold (1956-07-25 - N/A) from USA won a Nobel prize in chemistry (2018).
+George P., Smith (1941-03-10 - N/A) from USA won a Nobel prize in chemistry (2018).
+Sir Gregory P., Winter (1951-04-14 - N/A) from United Kingdom won a Nobel prize in chemistry (2018).
+Denis, Mukwege (1955-03-01 - N/A) from Belgian Congo (now Democratic Republic of the Congo)  won a Nobel prize in peace (2018).
+Nadia, Murad (N/A - N/A) from  won a Nobel prize in peace (2018).
+William D., Nordhaus (1941-05-31 - N/A) from USA won a Nobel prize in economics (2018).
+Paul M., Romer (N/A - N/A) from USA won a Nobel prize in economics (2018).
